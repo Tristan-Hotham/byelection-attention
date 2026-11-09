@@ -1,0 +1,13 @@
+kind,seat,term,value,why
+drop,Colne Valley,Colne,,Colne Valley (Yorkshire) is not Colne (Lancashire)
+drop,Liverpool West Derby,Derby,,West Derby is a district of Liverpool not the city of Derby
+drop,Plymouth Sutton,Sutton,,Sutton ward of Plymouth not Sutton (London)
+drop,Kincardine and Deeside,Deeside,,Hansard's Deeside is the Flintshire town not Royal Deeside
+keep,Merthyr,Merthyr,,Merthyr is Merthyr Tydfil; the seat point in the elections data is off
+keep,Kensington South,Kensington,,Hansard's point for Kensington is a Liverpool namesake; the counts are mostly London
+keep,Kensington,Kensington,,as above
+keep,Kensington and Chelsea,Kensington,,as above
+keep,Kennington,Kennington,,Hansard's point for Kennington is a Kent namesake; the counts are mostly London
+alias,Stratford-on-Avon,Stratford-upon-Avon,,old spelling of the seat name
+point,,Kensington,51.4991;-0.1938,Kensington (London)
+point,,Kennington,51.4881;-0.1106,Kennington (London)

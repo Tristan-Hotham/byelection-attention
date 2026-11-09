@@ -1,0 +1,1021 @@
+id,seat,date,term,flag,km_seat_point,n_seats_naming,far
+1909-01_tamworth,Tamworth,1909-01-16,Tamworth,,3.9,1,0
+1909-02_taunton,Taunton,1909-02-23,Taunton,,0.5,1,0
+1909-03_glasgow_central,Glasgow Central,1909-03-02,Glasgow,,2.8,9,0
+1909-03_edinburgh_south,Edinburgh South,1909-03-04,Edinburgh,,4.9,5,0
+1909-03_hawick_burghs,Hawick Burghs,1909-03-05,Hawick,,0.3,1,0
+1909-03_croydon,Croydon,1909-03-29,Croydon,,1.4,1,0
+1909-04_edinburgh_east,Edinburgh East,1909-04-16,Edinburgh,,3.5,5,0
+1909-05_sheffield_attercliffe,Sheffield Attercliffe,1909-05-04,Sheffield,,2.8,5,0
+1909-05_stratford_on_avon,Stratford-on-Avon,1909-05-04,Stratford-upon-Avon,,4.7,0,0
+1909-05_edinburgh_west,Edinburgh West,1909-05-17,Edinburgh,,8.5,5,0
+1909-07_dumfries_burghs,Dumfries Burghs,1909-07-20,Dumfries,,0.5,1,0
+1909-07_high_peak,High Peak,1909-07-22,High Peak,,2.0,1,0
+1909-09_west_clare,West Clare,1909-09-03,Clare,namesake,669.1,2,1
+1910-02_swansea_district,Swansea District,1910-02-28,Swansea,,5.7,2,0
+1910-03_rotherham,Rotherham,1910-03-01,Rotherham,,0.0,1,0
+1910-03_barnstaple,Barnstaple,1910-03-02,Barnstaple,,0.7,1,0
+1910-03_ilkeston,Ilkeston,1910-03-07,Ilkeston,,0.1,1,0
+1910-03_shipley,Shipley,1910-03-10,Shipley,,2.9,1,0
+1910-03_reading,Reading,1910-03-12,Reading,,0.3,1,0
+1910-04_edinburgh_south,Edinburgh South,1910-04-29,Edinburgh,,4.9,5,0
+1910-04_crewe,Crewe,1910-04-30,Crewe,,0.2,1,0
+1910-06_lewes,Lewes,1910-06-17,Lewes,,0.7,1,0
+1910-06_hartlepool,Hartlepool,1910-06-20,Hartlepool,,5.4,1,0
+1910-07_liverpool_kirkdale,Liverpool Kirkdale,1910-07-20,Kirkdale,,0.2,1,0
+1910-07_liverpool_kirkdale,Liverpool Kirkdale,1910-07-20,Liverpool,,2.5,9,0
+1910-10_south_shields,South Shields,1910-10-27,South Shields,,3.1,1,0
+1910-11_walthamstow,Walthamstow,1910-11-01,Walthamstow,,0.6,1,0
+1911-02_horncastle,Horncastle,1911-02-16,Horncastle,,0.2,1,0
+1911-02_westbury,Westbury,1911-02-22,Westbury,,0.1,1,0
+1911-03_north_louth,North Louth,1911-03-15,Louth,namesake,433.0,3,1
+1911-03_bootle,Bootle,1911-03-27,Bootle,,2.9,1,0
+1911-04_cheltenham,Cheltenham,1911-04-28,Cheltenham,,1.1,1,0
+1911-05_birmingham_south,Birmingham South,1911-05-03,Birmingham,,2.6,7,0
+1911-05_barnstaple,Barnstaple,1911-05-06,Barnstaple,,0.7,1,0
+1911-06_ross_and_cromarty,Ross and Cromarty,1911-06-14,Cromarty,,57.4,1,0
+1911-06_brighton,Brighton,1911-06-26,Brighton,,0.9,1,0
+1911-07_kingston_upon_hull_central,Kingston upon Hull Central,1911-07-05,Hull,shared,,3,0
+1911-07_glasgow_tradeston,Glasgow Tradeston,1911-07-06,Glasgow,,1.8,9,0
+1911-07_west_ham_north,West Ham North,1911-07-08,West Ham,,0.8,2,0
+1911-07_luton,Luton,1911-07-20,Luton,,1.5,1,0
+1911-07_wellington,Wellington,1911-07-21,Wellington,shared,0.1,2,0
+1911-07_bethnal_green_south_west,Bethnal Green South West,1911-07-29,Bethnal Green,,,2,0
+1911-08_middleton,Middleton,1911-08-02,Middleton,,1.0,1,0
+1911-09_kilmarnock_burghs,Kilmarnock Burghs,1911-09-26,Kilmarnock,,0.1,1,0
+1911-10_keighley,Keighley,1911-10-27,Keighley,,5.5,1,0
+1911-11_bristol_east,Bristol East,1911-11-03,Bristol,,4.7,4,0
+1911-11_oldham,Oldham,1911-11-13,Oldham,,0.5,1,0
+1911-11_hitchin,Hitchin,1911-11-23,Hitchin,,0.4,1,0
+1912-01_carmarthen_district,Carmarthen District,1912-01-29,Carmarthen,,,1,0
+1912-02_edinburgh_east,Edinburgh East,1912-02-02,Edinburgh,,3.5,5,0
+1912-02_glasgow_st_rollox,Glasgow St Rollox,1912-02-26,Glasgow,,1.3,9,0
+1912-03_manchester_south,Manchester South,1912-03-05,Manchester,,9.7,6,0
+1912-03_hereford,Hereford,1912-03-08,Hereford,,6.4,1,0
+1912-03_leominster,Leominster,1912-03-18,Leominster,,2.8,1,0
+1912-03_epsom,Epsom,1912-03-21,Epsom,,0.1,1,0
+1912-04_nottingham_east,Nottingham East,1912-04-19,Nottingham,,1.5,3,0
+1912-06_hythe,Hythe,1912-06-11,Hythe,shared,175.6,1,1
+1912-06_holmfirth,Holmfirth,1912-06-20,Holmfirth,,0.0,1,0
+1912-07_ilkeston,Ilkeston,1912-07-01,Ilkeston,,0.1,1,0
+1912-07_crewe,Crewe,1912-07-26,Crewe,,0.2,1,0
+1912-08_manchester_north_west,Manchester North West,1912-08-08,Manchester,,5.7,6,0
+1912-11_taunton,Taunton,1912-11-11,Taunton,,0.5,1,0
+1912-11_bolton,Bolton,1912-11-23,Bolton,,0.6,1,0
+1912-11_bow_and_bromley,Bow and Bromley,1912-11-26,Bow,,0.9,1,0
+1913-01_flint_boroughs,Flint Boroughs,1913-01-21,Flint,,0.1,1,0
+1913-01_londonderry_city,Londonderry City,1913-01-30,Londonderry,,30.6,3,0
+1913-02_east_antrim,East Antrim,1913-02-19,Antrim,namesake,26.7,4,0
+1913-02_chorley,Chorley,1913-02-19,Chorley,,1.1,1,0
+1913-03_houghton_le_spring,Houghton-le-Spring,1913-03-18,Houghton-Le-Spring,,0.2,1,0
+1913-03_kendal,Kendal,1913-03-18,Kendal,,0.2,1,0
+1913-04_shrewsbury,Shrewsbury,1913-04-22,Shrewsbury,,7.4,1,0
+1913-05_newmarket,Newmarket,1913-05-16,Newmarket,,0.5,1,0
+1913-05_altrincham,Altrincham,1913-05-28,Altrincham,,0.7,1,0
+1913-06_dover,Dover,1913-06-23,Dover,,6.3,1,0
+1913-06_leicester,Leicester,1913-06-27,Leicester,,0.3,1,0
+1913-08_chesterfield,Chesterfield,1913-08-20,Chesterfield,,1.1,1,0
+1913-11_reading,Reading,1913-11-08,Reading,,0.3,1,0
+1913-11_keighley,Keighley,1913-11-11,Keighley,,5.5,1,0
+1913-12_wick_burghs,Wick Burghs,1913-12-08,Wick,,0.1,1,0
+1914-01_north_west_durham,North West Durham,1914-01-30,Durham,namesake,25.9,4,0
+1914-02_bethnal_green_south_west,Bethnal Green South West,1914-02-19,Bethnal Green,,,2,0
+1914-04_belfast_east,Belfast East,1914-04-06,Belfast,,2.1,4,0
+1914-05_great_grimsby,Great Grimsby,1914-05-12,Grimsby,,0.7,1,0
+1914-05_ipswich,Ipswich,1914-05-23,Ipswich,,0.3,1,0
+1914-06_brighton,Brighton,1914-06-29,Brighton,,0.9,1,0
+1914-07_birmingham_west,Birmingham West,1914-07-14,Birmingham,,2.4,7,0
+1914-08_swansea_district,Swansea District,1914-08-13,Swansea,,5.7,2,0
+1914-09_bolton,Bolton,1914-09-22,Bolton,,0.6,1,0
+1914-09_the_hartlepools,The Hartlepools,1914-09-22,Hartlepool,,5.4,1,0
+1914-11_londonderry_city,Londonderry City,1914-11-30,Londonderry,,30.6,3,0
+1914-12_sheffield_attercliffe,Sheffield Attercliffe,1914-12-28,Sheffield,,2.8,5,0
+1915-02_norwich,Norwich,1915-02-06,Norwich,,5.1,1,0
+1915-02_swansea_district,Swansea District,1915-02-06,Swansea,,5.7,2,0
+1915-02_scarborough,Scarborough,1915-02-09,Scarborough,,0.4,1,0
+1915-02_shipley,Shipley,1915-02-09,Shipley,,2.9,1,0
+1915-02_thirsk_and_malton,Thirsk and Malton,1915-02-12,Malton,,14.7,1,0
+1915-02_thirsk_and_malton,Thirsk and Malton,1915-02-12,Thirsk,,23.0,1,0
+1915-02_saffron_walden,Saffron Walden,1915-02-13,Saffron Walden,,11.0,1,0
+1915-02_liverpool_kirkdale,Liverpool Kirkdale,1915-02-15,Kirkdale,,0.2,1,0
+1915-02_liverpool_kirkdale,Liverpool Kirkdale,1915-02-15,Liverpool,,2.5,9,0
+1915-02_mid_antrim,Mid Antrim,1915-02-17,Antrim,namesake,17.0,4,0
+1915-02_maidstone,Maidstone,1915-02-22,Maidstone,,1.0,1,0
+1915-03_carmarthen_boroughs,Carmarthen Boroughs,1915-03-17,Carmarthen,,12.9,1,0
+1915-04_mid_durham,Mid Durham,1915-04-29,Durham,namesake,5.9,4,0
+1915-05_kilmarnock_burghs,Kilmarnock Burghs,1915-05-28,Kilmarnock,,0.1,1,0
+1915-06_preston,Preston,1915-06-09,Preston,,1.3,1,0
+1915-06_keighley,Keighley,1915-06-29,Keighley,,5.5,1,0
+1915-07_glasgow_central,Glasgow Central,1915-07-16,Glasgow,,2.8,9,0
+1915-11_uxbridge,Uxbridge,1915-11-10,Uxbridge,,1.7,1,0
+1915-11_heywood,Heywood,1915-11-10,Heywood,,0.3,1,0
+1915-11_cardiff,Cardiff,1915-11-12,Cardiff,,0.2,1,0
+1915-11_st_austell,St Austell,1915-11-24,St Austell,,1.5,1,0
+1915-11_st_helens,St Helens,1915-11-24,St Helens,,1.0,1,0
+1915-11_merthyr_tydfil,Merthyr Tydfil,1915-11-25,Merthyr,,0.1,1,0
+1915-11_tiverton,Tiverton,1915-11-30,Tiverton,,0.3,1,0
+1916-01_portsmouth,Portsmouth,1916-01-15,Portsmouth,,0.8,1,0
+1916-01_bradford_central,Bradford Central,1916-01-21,Bradford,,0.2,3,0
+1916-01_rotherham,Rotherham,1916-01-26,Rotherham,,0.0,1,0
+1916-02_liverpool_east_toxteth,Liverpool East Toxteth,1916-02-21,Liverpool,,6.6,9,0
+1916-02_north_louth,North Louth,1916-02-24,Louth,namesake,433.0,3,1
+1916-02_bolton,Bolton,1916-02-29,Bolton,,0.6,1,0
+1916-02_chester,Chester,1916-02-29,Chester,,,2,0
+1916-02_droitwich,Droitwich,1916-02-29,Droitwich,,0.2,1,0
+1916-03_cockermouth,Cockermouth,1916-03-02,Cockermouth,,0.3,1,0
+1916-03_hertford,Hertford,1916-03-09,Hertford,,0.1,1,0
+1916-03_south_shields,South Shields,1916-03-18,South Shields,,3.1,1,0
+1916-03_hyde,Hyde,1916-03-30,Hyde,namesake,0.5,1,0
+1916-04_wimbledon,Wimbledon,1916-04-19,Wimbledon,,0.9,1,0
+1916-05_tewkesbury,Tewkesbury,1916-05-16,Tewkesbury,,8.7,1,0
+1916-05_widnes,Widnes,1916-05-22,Widnes,,0.4,1,0
+1916-05_south_londonderry,South Londonderry,1916-05-22,Londonderry,,31.8,3,0
+1916-08_exeter,Exeter,1916-08-07,Exeter,,0.5,1,0
+1916-08_bodmin,Bodmin,1916-08-15,Bodmin,,0.8,1,0
+1916-08_berwick_upon_tweed,Berwick-upon-Tweed,1916-08-16,Berwick-upon-Tweed,,25.2,1,0
+1916-08_colne_valley,Colne Valley,1916-08-25,Colne,,33.2,1,1
+1916-08_abingdon,Abingdon,1916-08-29,Abingdon,,0.5,1,0
+1916-09_mansfield,Mansfield,1916-09-20,Mansfield,,0.7,1,0
+1916-10_winchester,Winchester,1916-10-19,Winchester,,0.3,1,0
+1916-12_ashton_under_lyne,Ashton-under-Lyne,1916-12-23,Ashton-under-Lyne,,1.0,1,0
+1916-12_sheffield_hallam,Sheffield Hallam,1916-12-23,Sheffield,,4.9,5,0
+1916-12_derby,Derby,1916-12-29,Derby,,0.1,2,0
+1917-01_inverness_shire,Inverness-shire,1917-01-02,Inverness,,51.4,2,0
+1917-02_rotherham,Rotherham,1917-02-05,Rotherham,,0.0,1,0
+1917-02_rossendale,Rossendale,1917-02-13,Rossendale,,3.6,1,0
+1917-02_tamworth,Tamworth,1917-02-23,Tamworth,,3.9,1,0
+1917-03_stockton_on_tees,Stockton-on-Tees,1917-03-20,Stockton,,2.3,1,0
+1917-03_oxford,Oxford,1917-03-30,Oxford,,0.4,2,0
+1917-04_aberdeen_south,Aberdeen South,1917-04-03,Aberdeen,,5.8,3,0
+1917-04_belfast_south,Belfast South,1917-04-09,Belfast,,1.6,4,0
+1917-05_edinburgh_south,Edinburgh South,1917-05-13,Edinburgh,,4.9,5,0
+1917-06_henley,Henley,1917-06-20,Henley,,16.0,1,0
+1917-06_epping,Epping,1917-06-28,Epping,,0.3,1,0
+1917-06_liverpool_abercromby,Liverpool Abercromby,1917-06-28,Liverpool,,4.1,9,0
+1917-07_belfast_south,Belfast South,1917-07-02,Belfast,,1.6,4,0
+1917-07_fulham,Fulham,1917-07-03,Fulham,,1.1,1,0
+1917-07_east_clare,East Clare,1917-07-10,Clare,namesake,639.1,2,1
+1917-07_cambridge,Cambridge,1917-07-25,Cambridge,,1.0,2,0
+1917-07_dundee,Dundee,1917-07-30,Dundee,,1.2,1,0
+1917-08_norwich,Norwich,1917-08-26,Norwich,,5.1,1,0
+1917-10_islington_east,Islington East,1917-10-23,Islington,,2.7,4,0
+1917-10_spalding,Spalding,1917-10-25,Spalding,,0.2,1,0
+1917-10_basingstoke,Basingstoke,1917-10-25,Basingstoke,,0.2,1,0
+1917-11_salford_north,Salford North,1917-11-02,Salford,,0.9,3,0
+1917-12_wisbech,Wisbech,1917-12-14,Wisbech,,0.2,1,0
+1917-12_southampton,Southampton,1917-12-19,Southampton,,0.3,1,0
+1918-01_prestwich,Prestwich,1918-01-31,Prestwich,,0.0,1,0
+1918-03_manchester_south,Manchester South,1918-03-22,Manchester,,9.7,6,0
+1918-04_birmingham_west,Birmingham West,1918-04-25,Birmingham,,2.4,7,0
+1918-04_keighley,Keighley,1918-04-26,Keighley,,5.5,1,0
+1918-05_exeter,Exeter,1918-05-07,Exeter,,0.5,1,0
+1918-05_newcastle_upon_tyne,Newcastle-upon-Tyne,1918-05-13,Newcastle upon Tyne,,0.5,1,0
+1918-06_gravesend,Gravesend,1918-06-07,Gravesend,,0.2,1,0
+1918-06_bridgwater,Bridgwater,1918-06-18,Bridgwater,,7.2,1,0
+1918-07_manchester_north_east,Manchester North East,1918-07-16,Manchester,,4.9,6,0
+1918-07_fareham,Fareham,1918-07-18,Fareham,,2.3,1,0
+1918-07_east_grinstead,East Grinstead,1918-07-29,East Grinstead,,0.1,1,0
+1918-08_canterbury,Canterbury,1918-08-09,Canterbury,,3.1,1,0
+1918-09_banbury,Banbury,1918-09-24,Banbury,,11.8,1,0
+1918-10_bath,Bath,1918-10-15,Bath,,0.7,1,0
+1918-10_elgin_burghs,Elgin Burghs,1918-10-25,Elgin,,0.4,1,0
+1918-10_south_shields,South Shields,1918-10-28,South Shields,,3.1,1,0
+1918-10_prestwich,Prestwich,1918-10-28,Prestwich,,0.0,1,0
+1918-11_wilton,Wilton,1918-11-06,Wilton,,0.0,1,0
+1919-02_liverpool_west_derby,Liverpool West Derby,1919-02-26,Derby,,110.4,2,1
+1919-02_liverpool_west_derby,Liverpool West Derby,1919-02-26,Liverpool,,6.6,11,0
+1919-03_north_londonderry,North Londonderry,1919-03-04,Londonderry,,30.0,3,0
+1919-03_kingston_upon_hull_central,Kingston upon Hull Central,1919-03-29,Hull,shared,,4,0
+1919-05_east_antrim,East Antrim,1919-05-27,Antrim,namesake,26.7,4,0
+1919-07_swansea_east,Swansea East,1919-07-10,Swansea,,3.7,2,0
+1919-08_widnes,Widnes,1919-08-30,Widnes,,0.4,1,0
+1919-09_pontefract,Pontefract,1919-09-06,Pontefract,,0.0,1,0
+1919-10_manchester_rusholme,Manchester Rusholme,1919-10-07,Manchester,,2.6,10,0
+1919-11_chester_le_street,Chester-le-Street,1919-11-13,Chester-le-Street,,0.3,1,0
+1919-11_croydon_south,Croydon South,1919-11-14,Croydon,,5.8,2,0
+1919-11_plymouth_sutton,Plymouth Sutton,1919-11-28,Plymouth,,0.3,3,0
+1919-11_plymouth_sutton,Plymouth Sutton,1919-11-28,Sutton,,297.2,1,1
+1919-12_st_albans,St Albans,1919-12-10,St Albans,,1.1,1,0
+1920-01_ashton_under_lyne,Ashton-under-Lyne,1920-01-31,Ashton-under-Lyne,,1.0,1,0
+1920-02_paisley,Paisley,1920-02-12,Paisley,,1.6,1,0
+1920-02_horncastle,Horncastle,1920-02-25,Horncastle,,0.2,1,0
+1920-03_stockport,Stockport,1920-03-27,Stockport,,0.8,1,0
+1920-03_dartford,Dartford,1920-03-27,Dartford,,4.1,1,0
+1920-03_basingstoke,Basingstoke,1920-03-31,Basingstoke,,0.2,1,0
+1920-04_northampton,Northampton,1920-04-01,Northampton,,2.2,1,0
+1920-04_edinburgh_south,Edinburgh South,1920-04-09,Edinburgh,,4.9,5,0
+1920-04_edinburgh_north,Edinburgh North,1920-04-09,Edinburgh,,2.7,5,0
+1920-04_sunderland,Sunderland,1920-04-24,Sunderland,,0.1,1,0
+1920-06_louth,Louth,1920-06-03,Louth,namesake,31.3,2,0
+1920-06_nelson_and_colne,Nelson and Colne,1920-06-17,Colne,,4.1,2,0
+1920-06_nelson_and_colne,Nelson and Colne,1920-06-17,Nelson,namesake,1.2,1,0
+1920-07_ebbw_vale,Ebbw Vale,1920-07-26,Ebbw Vale,,0.3,1,0
+1920-07_woodbridge,Woodbridge,1920-07-28,Woodbridge,,0.1,1,0
+1920-09_ilford,Ilford,1920-09-25,Ilford,,0.9,1,0
+1920-11_hemel_hempstead,Hemel Hempstead,1920-11-09,Hemel Hempstead,,5.1,1,0
+1920-11_middleton_and_prestwich,Middleton and Prestwich,1920-11-22,Middleton,,1.0,1,0
+1920-11_middleton_and_prestwich,Middleton and Prestwich,1920-11-22,Prestwich,,6.8,1,0
+1920-12_rhondda_west,Rhondda West,1920-12-21,Rhondda,,2.9,2,0
+1920-12_abertillery,Abertillery,1920-12-21,Abertillery,,0.3,1,0
+1921-01_hereford,Hereford,1921-01-11,Hereford,,6.4,1,0
+1921-01_dover,Dover,1921-01-12,Dover,,6.3,1,0
+1921-03_dudley,Dudley,1921-03-03,Dudley,,2.9,1,0
+1921-03_kirkcaldy_burghs,Kirkcaldy Burghs,1921-03-04,Kirkcaldy,,0.8,1,0
+1921-03_birmingham_moseley,Birmingham Moseley,1921-03-04,Birmingham,,3.9,12,0
+1921-03_penistone,Penistone,1921-03-05,Penistone,,0.1,1,0
+1921-03_birmingham_west,Birmingham West,1921-03-31,Birmingham,,2.4,12,0
+1921-04_taunton,Taunton,1921-04-08,Taunton,,0.5,1,0
+1921-04_bristol_west,Bristol West,1921-04-09,Bristol,,1.2,5,0
+1921-04_glasgow_pollok,Glasgow Pollok,1921-04-14,Glasgow,,1.3,15,0
+1921-04_bewdley,Bewdley,1921-04-19,Bewdley,,0.1,1,0
+1921-04_chichester,Chichester,1921-04-23,Chichester,,0.1,1,0
+1921-04_bedford,Bedford,1921-04-23,Bedford,,0.7,1,0
+1921-05_hastings,Hastings,1921-05-04,Hastings,,0.9,1,0
+1921-05_penrith_and_cockermouth,Penrith and Cockermouth,1921-05-13,Cockermouth,,39.2,1,0
+1921-05_penrith_and_cockermouth,Penrith and Cockermouth,1921-05-13,Penrith,,0.2,1,0
+1921-05_abingdon,Abingdon,1921-05-14,Abingdon,,0.5,1,0
+1921-06_heywood_and_radcliffe,Heywood and Radcliffe,1921-06-08,Heywood,,0.3,1,0
+1921-06_heywood_and_radcliffe,Heywood and Radcliffe,1921-06-08,Radcliffe,,7.6,1,0
+1921-06_belfast_duncairn,Belfast Duncairn,1921-06-23,Belfast,,0.3,10,0
+1921-07_hertford,Hertford,1921-07-16,Hertford,,0.1,1,0
+1921-08_caerphilly,Caerphilly,1921-08-24,Caerphilly,,0.5,1,0
+1921-08_south_londonderry,South Londonderry,1921-08-29,Londonderry,,31.8,3,0
+1921-09_louth,Louth,1921-09-22,Louth,namesake,31.3,2,0
+1921-10_westhoughton,Westhoughton,1921-10-05,Westhoughton,,9.5,1,0
+1922-01_ludlow,Ludlow,1922-01-04,Ludlow,,13.5,1,0
+1922-01_tamworth,Tamworth,1922-01-17,Tamworth,,3.9,1,0
+1922-01_south_londonderry,South Londonderry,1922-01-18,Londonderry,,31.8,3,0
+1922-02_manchester_clayton,Manchester Clayton,1922-02-18,Manchester,,7.2,10,0
+1922-02_bodmin,Bodmin,1922-02-24,Bodmin,,0.8,1,0
+1922-03_wolverhampton_west,Wolverhampton West,1922-03-07,Wolverhampton,,2.5,2,0
+1922-03_liverpool_exchange,Liverpool Exchange,1922-03-13,Liverpool,,4.1,11,0
+1922-03_cambridge,Cambridge,1922-03-16,Cambridge,,1.0,2,0
+1922-03_inverness,Inverness,1922-03-16,Inverness,,0.5,1,0
+1922-03_chertsey,Chertsey,1922-03-24,Chertsey,,0.2,1,0
+1922-03_leicester_east,Leicester East,1922-03-30,Leicester,,3.5,3,0
+1922-05_city_of_london,City of London,1922-05-19,City of London,,0.0,1,0
+1922-06_north_londonderry,North Londonderry,1922-06-04,Londonderry,,30.0,3,0
+1922-06_newbury,Newbury,1922-06-10,Newbury,,6.6,1,0
+1922-06_moray_and_nairn,Moray and Nairn,1922-06-21,Nairn,,37.9,1,0
+1922-06_banbury,Banbury,1922-06-22,Banbury,,11.8,1,0
+1922-06_nottingham_east,Nottingham East,1922-06-29,Nottingham,,1.5,4,0
+1922-07_pontypridd,Pontypridd,1922-07-25,Pontypridd,,0.6,1,0
+1922-10_newport_monmouthshire,Newport (Monmouthshire),1922-10-18,Newport,shared,,1,0
+1922-12_portsmouth_south,Portsmouth South,1922-12-13,Portsmouth,,1.6,3,0
+1923-01_newcastle_upon_tyne_east,Newcastle-upon-Tyne East,1923-01-17,Newcastle upon Tyne,,,4,0
+1923-02_darlington,Darlington,1923-02-28,Darlington,,0.6,1,0
+1923-03_mitcham,Mitcham,1923-03-03,Mitcham,,1.2,1,0
+1923-03_willesden_east,Willesden East,1923-03-03,Willesden,,3.1,2,0
+1923-03_liverpool_edge_hill,Liverpool Edge Hill,1923-03-06,Liverpool,,1.8,11,0
+1923-04_ludlow,Ludlow,1923-04-19,Ludlow,,13.5,1,0
+1923-05_berwick_upon_tweed,Berwick-upon-Tweed,1923-05-31,Berwick-upon-Tweed,,25.2,1,0
+1923-06_tiverton,Tiverton,1923-06-21,Tiverton,,0.3,1,0
+1923-06_morpeth,Morpeth,1923-06-21,Morpeth,,0.0,1,0
+1923-07_leeds_central,Leeds Central,1923-07-26,Leeds,,2.4,6,0
+1923-08_portsmouth_south,Portsmouth South,1923-08-13,Portsmouth,,1.6,3,0
+1923-10_yeovil,Yeovil,1923-10-30,Yeovil,,13.3,1,0
+1923-10_rutland_and_stamford,Rutland and Stamford,1923-10-30,Stamford,,7.2,1,0
+1924-02_city_of_london,City of London,1924-02-01,City of London,,0.0,1,0
+1924-02_burnley,Burnley,1924-02-28,Burnley,,1.6,1,0
+1924-03_dover,Dover,1924-03-12,Dover,,6.3,1,0
+1924-05_liverpool_west_toxteth,Liverpool West Toxteth,1924-05-22,Liverpool,,1.7,11,0
+1924-05_glasgow_kelvingrove,Glasgow Kelvingrove,1924-05-23,Glasgow,,1.6,15,0
+1924-06_oxford,Oxford,1924-06-05,Oxford,,0.4,2,0
+1924-07_lewes,Lewes,1924-07-09,Lewes,,0.7,1,0
+1924-07_holland_with_boston,Holland with Boston,1924-07-31,Boston,namesake,22.8,1,0
+1924-08_carmarthen,Carmarthen,1924-08-14,Carmarthen,,12.9,1,0
+1924-12_dundee,Dundee,1924-12-22,Dundee,,1.2,1,0
+1925-02_walsall,Walsall,1925-02-27,Walsall,,0.1,1,0
+1925-06_ayr_burghs,Ayr Burghs,1925-06-12,Ayr,,0.4,1,0
+1925-06_eastbourne,Eastbourne,1925-06-17,Eastbourne,,1.0,1,0
+1925-06_oldham,Oldham,1925-06-24,Oldham,,0.5,1,0
+1925-09_stockport,Stockport,1925-09-17,Stockport,,0.8,1,0
+1925-12_bury_st_edmunds,Bury St Edmunds,1925-12-01,Bury St Edmunds,,12.9,1,0
+1925-12_ripon,Ripon,1925-12-05,Ripon,,0.4,1,0
+1926-02_darlington,Darlington,1926-02-17,Darlington,,0.6,1,0
+1926-07_wallsend,Wallsend,1926-07-21,Wallsend,,0.1,1,0
+1926-11_kingston_upon_hull_central,Kingston-upon-Hull Central,1926-11-29,Hull,shared,,4,0
+1926-11_chelmsford,Chelmsford,1926-11-30,Chelmsford,,1.5,1,0
+1926-12_smethwick,Smethwick,1926-12-21,Smethwick,,2.4,1,0
+1927-02_stourbridge,Stourbridge,1927-02-23,Stourbridge,,1.1,1,0
+1927-06_westbury,Westbury,1927-06-16,Westbury,,0.1,1,0
+1927-06_brixton,Brixton,1927-06-27,Brixton,,1.2,1,0
+1927-11_southend,Southend,1927-11-19,Southend,,,1,0
+1927-11_canterbury,Canterbury,1927-11-24,Canterbury,,3.1,1,0
+1928-01_northampton,Northampton,1928-01-09,Northampton,,2.2,1,0
+1928-01_faversham,Faversham,1928-01-25,Faversham,,0.4,1,0
+1928-02_bristol_west,Bristol West,1928-02-02,Bristol,,1.2,5,0
+1928-02_lancaster,Lancaster,1928-02-09,Lancaster,namesake,0.1,1,0
+1928-02_ilford,Ilford,1928-02-23,Ilford,,0.9,1,0
+1928-03_st_ives,St Ives,1928-03-06,St Ives,shared,0.2,1,0
+1928-03_middlesbrough_west,Middlesbrough West,1928-03-07,Middlesbrough,,,2,0
+1928-06_carmarthen,Carmarthen,1928-06-28,Carmarthen,,12.9,1,0
+1928-07_epsom,Epsom,1928-07-04,Epsom,,0.1,1,0
+1928-07_halifax,Halifax,1928-07-13,Halifax,,2.2,1,0
+1928-07_sheffield_hallam,Sheffield Hallam,1928-07-16,Sheffield,,4.9,7,0
+1928-08_aberdeen_north,Aberdeen North,1928-08-16,Aberdeen,,4.2,5,0
+1928-09_cheltenham,Cheltenham,1928-09-26,Cheltenham,,1.1,1,0
+1928-10_tavistock,Tavistock,1928-10-11,Tavistock,,0.0,1,0
+1928-10_ashton_under_lyne,Ashton-under-Lyne,1928-10-29,Ashton-under-Lyne,,1.0,1,0
+1929-01_londonderry,Londonderry,1929-01-29,Londonderry,,30.6,1,0
+1929-02_battersea_south,Battersea South,1929-02-07,Battersea,,1.9,2,0
+1929-02_bishop_auckland,Bishop Auckland,1929-02-07,Bishop Auckland,,0.2,1,0
+1929-03_liverpool_east_toxteth,Liverpool East Toxteth,1929-03-19,Liverpool,,6.6,11,0
+1929-03_bath,Bath,1929-03-21,Bath,,0.7,1,0
+1929-03_holland_with_boston,Holland with Boston,1929-03-21,Boston,namesake,22.8,1,0
+1929-07_preston,Preston,1929-07-31,Preston,,1.3,1,0
+1929-08_leeds_south_east,Leeds South East,1929-08-01,Leeds,,3.7,6,0
+1929-11_kilmarnock,Kilmarnock,1929-11-27,Kilmarnock,,0.1,1,0
+1929-12_tamworth,Tamworth,1929-12-02,Tamworth,,3.9,1,0
+1929-12_liverpool_scotland,Liverpool Scotland,1929-12-14,Liverpool,,0.5,11,0
+1930-02_sheffield_brightside,Sheffield Brightside,1930-02-06,Sheffield,,3.2,7,0
+1930-05_fulham_west,Fulham West,1930-05-06,Fulham,,,2,0
+1930-05_nottingham_central,Nottingham Central,1930-05-27,Nottingham,,0.2,4,0
+1930-06_glasgow_shettleston,Glasgow Shettleston,1930-06-26,Glasgow,,5.9,15,0
+1930-11_shipley,Shipley,1930-11-06,Shipley,,2.9,1,0
+1931-01_bristol_east,Bristol East,1931-01-16,Bristol,,4.7,5,0
+1931-02_liverpool_east_toxteth,Liverpool East Toxteth,1931-02-05,Liverpool,,6.6,11,0
+1931-02_islington_east,Islington East,1931-02-19,Islington,,2.7,4,0
+1931-02_fareham,Fareham,1931-02-20,Fareham,,2.3,1,0
+1931-03_salisbury,Salisbury,1931-03-11,Salisbury,namesake,0.4,1,0
+1931-03_pontypridd,Pontypridd,1931-03-19,Pontypridd,,0.6,1,0
+1931-03_sunderland,Sunderland,1931-03-26,Sunderland,,0.1,1,0
+1931-04_ashton_under_lyne,Ashton-under-Lyne,1931-04-30,Ashton-under-Lyne,,1.0,1,0
+1931-05_scarborough_and_whitby,Scarborough and Whitby,1931-05-06,Scarborough,,14.2,1,0
+1931-05_scarborough_and_whitby,Scarborough and Whitby,1931-05-06,Whitby,,13.3,1,0
+1931-05_glasgow_st_rollox,Glasgow St Rollox,1931-05-07,Glasgow,,1.3,15,0
+1931-05_stroud,Stroud,1931-05-21,Stroud,,5.6,1,0
+1931-05_rutherglen,Rutherglen,1931-05-21,Rutherglen,,5.3,1,0
+1931-06_gateshead,Gateshead,1931-06-08,Gateshead,,2.1,1,0
+1931-06_manchester_ardwick,Manchester Ardwick,1931-06-22,Manchester,,1.7,10,0
+1931-06_liverpool_wavertree,Liverpool Wavertree,1931-06-23,Liverpool,,4.2,11,0
+1931-08_guildford,Guildford,1931-08-25,Guildford,,2.0,1,0
+1932-02_new_forest_and_christchurch,New Forest and Christchurch,1932-02-09,Christchurch,namesake,19.0,1,0
+1932-02_croydon_south,Croydon South,1932-02-09,Croydon,,5.8,2,0
+1932-02_henley,Henley,1932-02-25,Henley,,16.0,1,0
+1932-04_richmond_upon_thames,Richmond-upon-Thames,1932-04-13,Richmond,shared,0.7,2,0
+1932-04_wakefield,Wakefield,1932-04-21,Wakefield,,0.1,1,0
+1932-04_eastbourne,Eastbourne,1932-04-28,Eastbourne,,1.0,1,0
+1932-06_montrose_burghs,Montrose Burghs,1932-06-28,Montrose,,0.1,1,0
+1932-07_wednesbury,Wednesbury,1932-07-26,Wednesbury,,0.3,1,0
+1933-01_liverpool_exchange,Liverpool Exchange,1933-01-19,Liverpool,,4.1,11,0
+1933-02_rotherham,Rotherham,1933-02-27,Rotherham,,0.0,1,0
+1933-03_ashford,Ashford,1933-03-17,Ashford,shared,7.3,1,0
+1933-03_rhondda_east,Rhondda East,1933-03-28,Rhondda,,2.9,2,0
+1933-05_normanton,Normanton,1933-05-08,Normanton,,0.0,1,0
+1933-06_hitchin,Hitchin,1933-06-08,Hitchin,,0.4,1,0
+1933-06_altrincham,Altrincham,1933-06-14,Altrincham,,0.7,1,0
+1933-09_clay_cross,Clay Cross,1933-09-01,Clay Cross,,0.4,1,0
+1933-10_fulham_east,Fulham East,1933-10-25,Fulham,,,2,0
+1933-11_kilmarnock,Kilmarnock,1933-11-02,Kilmarnock,,0.1,1,0
+1933-11_skipton,Skipton,1933-11-07,Skipton,,0.2,1,0
+1933-11_manchester_rusholme,Manchester Rusholme,1933-11-21,Manchester,,2.6,10,0
+1933-11_rutland_and_stamford,Rutland and Stamford,1933-11-21,Stamford,,7.2,1,0
+1934-02_cambridge,Cambridge,1934-02-08,Cambridge,,1.0,2,0
+1934-02_lowestoft,Lowestoft,1934-02-15,Lowestoft,,5.6,1,0
+1934-02_portsmouth_north,Portsmouth North,1934-02-19,Portsmouth,,5.3,3,0
+1934-04_basingstoke,Basingstoke,1934-04-19,Basingstoke,,0.2,1,0
+1934-05_hemsworth,Hemsworth,1934-05-17,Hemsworth,,0.0,1,0
+1934-06_merthyr,Merthyr,1934-06-05,Merthyr,,71.1,1,0
+1934-06_monmouth,Monmouth,1934-06-14,Monmouth,,8.5,1,0
+1934-06_weston_super_mare,Weston-super-Mare,1934-06-26,Weston-super-Mare,,6.9,1,0
+1934-10_swindon,Swindon,1934-10-25,Swindon,,3.1,1,0
+1934-11_putney,Putney,1934-11-28,Putney,,0.9,1,0
+1935-02_liverpool_wavertree,Liverpool Wavertree,1935-02-06,Liverpool,,4.2,11,0
+1935-03_eastbourne,Eastbourne,1935-03-29,Eastbourne,,1.0,1,0
+1935-04_perth,Perth,1935-04-16,Perth,namesake,0.1,1,0
+1935-05_edinburgh_west,Edinburgh West,1935-05-02,Edinburgh,,8.5,5,0
+1935-05_tamworth,Tamworth,1935-05-10,Tamworth,,3.9,1,0
+1935-05_aberdeen_south,Aberdeen South,1935-05-21,Aberdeen,,5.8,5,0
+1935-06_city_of_london,City of London,1935-06-26,City of London,,0.0,1,0
+1935-07_liverpool_west_derby,Liverpool West Derby,1935-07-06,Derby,,110.4,2,1
+1935-07_liverpool_west_derby,Liverpool West Derby,1935-07-06,Liverpool,,6.6,11,0
+1935-07_liverpool_west_toxteth,Liverpool West Toxteth,1935-07-16,Liverpool,,1.7,11,0
+1935-07_sevenoaks,Sevenoaks,1935-07-20,Sevenoaks,,6.8,1,0
+1936-02_ross_and_cromarty,Ross and Cromarty,1936-02-10,Cromarty,,57.4,1,0
+1936-03_llanelli,Llanelli,1936-03-26,Llanelli,,6.2,0,0
+1936-05_peckham,Peckham,1936-05-06,Peckham,,0.4,1,0
+1936-06_lewes,Lewes,1936-06-18,Lewes,,0.7,1,0
+1936-07_derby,Derby,1936-07-09,Derby,,0.1,2,0
+1936-07_balham_and_tooting,Balham and Tooting,1936-07-23,Tooting,,2.2,1,0
+1936-07_east_grinstead,East Grinstead,1936-07-23,East Grinstead,,0.1,1,0
+1936-10_birmingham_erdington,Birmingham Erdington,1936-10-20,Birmingham,,3.8,12,0
+1936-11_clay_cross,Clay Cross,1936-11-05,Clay Cross,,0.4,1,0
+1936-11_preston,Preston,1936-11-25,Preston,,1.3,1,0
+1936-11_greenock,Greenock,1936-11-26,Greenock,,0.4,1,0
+1937-02_manchester_gorton,Manchester Gorton,1937-02-18,Manchester,,2.1,10,0
+1937-02_richmond_upon_thames,Richmond-upon-Thames,1937-02-25,Richmond,shared,0.7,2,0
+1937-03_tonbridge,Tonbridge,1937-03-23,Tonbridge,,23.0,1,0
+1937-03_farnham,Farnham,1937-03-23,Farnham,,0.3,1,0
+1937-04_stalybridge_and_hyde,Stalybridge and Hyde,1937-04-28,Hyde,namesake,1.6,1,0
+1937-04_stalybridge_and_hyde,Stalybridge and Hyde,1937-04-28,Stalybridge,,2.7,1,0
+1937-04_birmingham_west,Birmingham West,1937-04-29,Birmingham,,2.4,12,0
+1937-05_york,York,1937-05-06,York,,0.8,1,0
+1937-06_glasgow_hillhead,Glasgow Hillhead,1937-06-10,Glasgow,,2.1,15,0
+1937-06_buckingham,Buckingham,1937-06-11,Buckingham,,0.2,1,0
+1937-06_plymouth_drake,Plymouth Drake,1937-06-15,Plymouth,,0.9,3,0
+1937-06_cheltenham,Cheltenham,1937-06-22,Cheltenham,,1.1,1,0
+1937-06_hemel_hempstead,Hemel Hempstead,1937-06-22,Hemel Hempstead,,5.1,1,0
+1937-06_holland_with_boston,Holland with Boston,1937-06-24,Boston,namesake,22.8,1,0
+1937-06_ilford,Ilford,1937-06-29,Ilford,,0.9,1,0
+1937-06_bewdley,Bewdley,1937-06-29,Bewdley,,0.1,1,0
+1937-06_st_ives,St Ives,1937-06-30,St Ives,shared,0.2,1,0
+1937-07_chertsey,Chertsey,1937-07-02,Chertsey,,0.2,1,0
+1937-09_glasgow_springburn,Glasgow Springburn,1937-09-07,Glasgow,,2.8,15,0
+1937-10_islington_north,Islington North,1937-10-13,Islington,,2.9,4,0
+1937-11_hastings,Hastings,1937-11-24,Hastings,,0.9,1,0
+1938-01_farnworth,Farnworth,1938-01-27,Farnworth,,0.5,1,0
+1938-02_pontypridd,Pontypridd,1938-02-11,Pontypridd,,0.6,1,0
+1938-02_ipswich,Ipswich,1938-02-16,Ipswich,,0.3,1,0
+1938-04_city_of_london,City of London,1938-04-06,City of London,,0.0,1,0
+1938-04_fulham_west,Fulham West,1938-04-06,Fulham,,,2,0
+1938-05_lichfield,Lichfield,1938-05-05,Lichfield,,8.2,1,0
+1938-05_aylesbury,Aylesbury,1938-05-19,Aylesbury,,0.2,1,0
+1938-06_stafford,Stafford,1938-06-09,Stafford,,3.1,1,0
+1938-06_barnsley,Barnsley,1938-06-16,Barnsley,,0.5,1,0
+1938-07_willesden_east,Willesden East,1938-07-28,Willesden,,3.1,2,0
+1938-10_oxford,Oxford,1938-10-27,Oxford,,0.4,2,0
+1938-11_dartford,Dartford,1938-11-07,Dartford,,4.1,1,0
+1938-11_walsall,Walsall,1938-11-16,Walsall,,0.1,1,0
+1938-11_bridgwater,Bridgwater,1938-11-17,Bridgwater,,7.2,1,0
+1938-11_doncaster,Doncaster,1938-11-17,Doncaster,,0.2,1,0
+1938-11_fylde,Fylde,1938-11-30,Fylde,,3.9,1,0
+1938-12_kinross_and_western_perthshire,Kinross and Western Perthshire,1938-12-21,Kinross,,15.0,1,0
+1939-02_ripon,Ripon,1939-02-23,Ripon,,0.4,1,0
+1939-03_batley_and_morley,Batley and Morley,1939-03-09,Batley,,1.5,1,0
+1939-03_batley_and_morley,Batley and Morley,1939-03-09,Morley,,3.6,1,0
+1939-05_sheffield_hallam,Sheffield Hallam,1939-05-10,Sheffield,,4.9,7,0
+1939-05_birmingham_aston,Birmingham Aston,1939-05-17,Aston,,0.2,1,0
+1939-05_birmingham_aston,Birmingham Aston,1939-05-17,Birmingham,,2.5,12,0
+1939-05_kennington,Kennington,1939-05-24,Kennington,,1.0,1,0
+1939-07_caerphilly,Caerphilly,1939-07-04,Caerphilly,,0.5,1,0
+1939-07_portsmouth_south,Portsmouth South,1939-07-12,Portsmouth,,1.6,3,0
+1939-07_hythe,Hythe,1939-07-20,Hythe,shared,175.6,1,1
+1939-07_monmouth,Monmouth,1939-07-25,Monmouth,,8.5,1,0
+1939-07_colne_valley,Colne Valley,1939-07-27,Colne,,33.2,2,1
+1939-08_brecon_and_radnorshire,Brecon and Radnorshire,1939-08-01,Brecon,,16.3,1,0
+1939-10_fareham,Fareham,1939-10-06,Fareham,,2.3,1,0
+1939-10_high_peak,High Peak,1939-10-07,High Peak,,2.0,1,0
+1939-10_ormskirk,Ormskirk,1939-10-27,Ormskirk,,0.3,1,0
+1939-10_ashton_under_lyne,Ashton-under-Lyne,1939-10-28,Ashton-under-Lyne,,1.0,1,0
+1939-11_macclesfield,Macclesfield,1939-11-22,Macclesfield,,6.3,1,0
+1939-12_streatham,Streatham,1939-12-07,Streatham,,1.2,1,0
+1939-12_stretford,Stretford,1939-12-08,Stretford,,0.6,1,0
+1939-12_wells,Wells,1939-12-13,Wells,,5.2,1,0
+1940-02_southampton,Southampton,1940-02-01,Southampton,,0.3,1,0
+1940-02_swansea_east,Swansea East,1940-02-05,Swansea,,3.7,2,0
+1940-02_city_of_london,City of London,1940-02-05,City of London,,0.0,1,0
+1940-02_belfast_east,Belfast East,1940-02-08,Belfast,,2.1,5,0
+1940-03_kettering,Kettering,1940-03-06,Kettering,,2.9,1,0
+1940-03_city_of_chester,City of Chester,1940-03-07,Chester,,3.1,2,0
+1940-03_leeds_north_east,Leeds North East,1940-03-13,Leeds,,6.3,6,0
+1940-04_battersea_north,Battersea North,1940-04-17,Battersea,,1.9,2,0
+1940-04_glasgow_pollok,Glasgow Pollok,1940-04-30,Glasgow,,1.3,15,0
+1940-05_brighton,Brighton,1940-05-09,Brighton,,0.9,1,0
+1940-06_middleton_and_prestwich,Middleton and Prestwich,1940-06-01,Middleton,,1.0,1,0
+1940-06_middleton_and_prestwich,Middleton and Prestwich,1940-06-01,Prestwich,,6.8,1,0
+1940-06_newcastle_upon_tyne_north,Newcastle upon Tyne North,1940-06-07,Newcastle upon Tyne,,6.2,4,0
+1940-06_bow_and_bromley,Bow and Bromley,1940-06-12,Bow,,0.9,1,0
+1940-06_croydon_north,Croydon North,1940-06-19,Croydon,,2.1,2,0
+1940-06_bournemouth,Bournemouth,1940-06-27,Bournemouth,,0.2,1,0
+1940-07_newcastle_upon_tyne_west,Newcastle upon Tyne West,1940-07-05,Newcastle upon Tyne,,,4,0
+1940-07_montrose_burghs,Montrose Burghs,1940-07-05,Montrose,,0.1,1,0
+1940-07_nottingham_central,Nottingham Central,1940-07-19,Nottingham,,0.2,4,0
+1940-07_rochdale,Rochdale,1940-07-20,Rochdale,,0.9,1,0
+1940-08_middlesbrough_west,Middlesbrough West,1940-08-07,Middlesbrough,,,2,0
+1940-08_mitcham,Mitcham,1940-08-19,Mitcham,,1.2,1,0
+1940-08_heywood_and_radcliffe,Heywood and Radcliffe,1940-08-28,Heywood,,0.3,1,0
+1940-08_heywood_and_radcliffe,Heywood and Radcliffe,1940-08-28,Radcliffe,,7.6,1,0
+1940-09_bolton,Bolton,1940-09-13,Bolton,,0.6,1,0
+1940-09_manchester_exchange,Manchester Exchange,1940-09-21,Manchester,,7.2,10,0
+1940-09_preston,Preston,1940-09-25,Preston,,1.3,1,0
+1940-11_aldershot,Aldershot,1940-11-26,Aldershot,,2.9,1,0
+1940-11_southampton,Southampton,1940-11-27,Southampton,,0.3,1,0
+1940-12_northampton,Northampton,1940-12-06,Northampton,,2.2,1,0
+1940-12_birmingham_edgbaston,Birmingham Edgbaston,1940-12-18,Birmingham,,3.5,12,0
+1941-02_doncaster,Doncaster,1941-02-06,Doncaster,,0.2,1,0
+1941-02_petersfield,Petersfield,1941-02-22,Petersfield,,0.2,1,0
+1941-03_hitchin,Hitchin,1941-03-10,Hitchin,,0.4,1,0
+1941-03_bodmin,Bodmin,1941-03-11,Bodmin,,0.8,1,0
+1941-03_carmarthen,Carmarthen,1941-03-26,Carmarthen,,12.9,1,0
+1941-04_great_yarmouth,Great Yarmouth,1941-04-08,Great Yarmouth,,10.1,1,0
+1941-04_west_bromwich,West Bromwich,1941-04-16,West Bromwich,,0.1,1,0
+1941-04_mansfield,Mansfield,1941-04-22,Mansfield,,0.7,1,0
+1941-07_greenock,Greenock,1941-07-10,Greenock,,0.4,1,0
+1941-07_edinburgh_west,Edinburgh West,1941-07-12,Edinburgh,,8.5,5,0
+1941-07_dudley,Dudley,1941-07-23,Dudley,,2.9,1,0
+1941-07_pontefract,Pontefract,1941-07-24,Pontefract,,0.0,1,0
+1941-08_berwick_upon_tweed,Berwick-upon-Tweed,1941-08-18,Berwick-upon-Tweed,,25.2,1,0
+1941-09_scarborough_and_whitby,Scarborough and Whitby,1941-09-24,Scarborough,,14.2,1,0
+1941-09_scarborough_and_whitby,Scarborough and Whitby,1941-09-24,Whitby,,13.3,1,0
+1941-10_lancaster,Lancaster,1941-10-15,Lancaster,namesake,0.1,1,0
+1941-11_brighton,Brighton,1941-11-15,Brighton,,0.9,1,0
+1941-12_harrow,Harrow,1941-12-02,Harrow,,1.1,1,0
+1941-12_edinburgh_central,Edinburgh Central,1941-12-11,Edinburgh,,0.5,5,0
+1942-02_keighley,Keighley,1942-02-13,Keighley,,5.5,1,0
+1942-03_nuneaton,Nuneaton,1942-03-09,Nuneaton,,2.8,1,0
+1942-03_manchester_gorton,Manchester Gorton,1942-03-11,Manchester,,2.1,10,0
+1942-03_newcastle_under_lyme,Newcastle-under-Lyme,1942-03-11,Newcastle-under-Lyme,,5.8,1,0
+1942-03_wigan,Wigan,1942-03-11,Wigan,,0.4,1,0
+1942-03_grantham,Grantham,1942-03-25,Grantham,,0.8,1,0
+1942-04_tavistock,Tavistock,1942-04-02,Tavistock,,0.0,1,0
+1942-04_cardiff_east,Cardiff East,1942-04-13,Cardiff,,5.0,3,0
+1942-04_glasgow_cathcart,Glasgow Cathcart,1942-04-29,Glasgow,,5.4,15,0
+1942-04_wallasey,Wallasey,1942-04-29,Wallasey,,0.8,1,0
+1942-04_rugby,Rugby,1942-04-29,Rugby,,6.7,1,0
+1942-05_putney,Putney,1942-05-08,Putney,,0.9,1,0
+1942-05_chichester,Chichester,1942-05-25,Chichester,,0.1,1,0
+1942-06_llandaff_and_barry,Llandaff and Barry,1942-06-10,Barry,,11.5,1,0
+1942-06_maldon,Maldon,1942-06-25,Maldon,,6.5,1,0
+1942-06_windsor,Windsor,1942-06-30,Windsor,namesake,8.8,1,0
+1942-07_salisbury,Salisbury,1942-07-08,Salisbury,namesake,0.4,1,0
+1942-07_spennymoor,Spennymoor,1942-07-21,Spennymoor,,0.8,1,0
+1942-08_rothwell,Rothwell,1942-08-07,Rothwell,,0.8,1,0
+1942-08_sheffield_park,Sheffield Park,1942-08-27,Sheffield,,0.4,7,0
+1942-10_manchester_clayton,Manchester Clayton,1942-10-17,Manchester,,7.2,10,0
+1943-01_hamilton,Hamilton,1943-01-29,Hamilton,namesake,1.2,1,0
+1943-02_belfast_west,Belfast West,1943-02-09,Belfast,,2.3,5,0
+1943-02_ashford,Ashford,1943-02-10,Ashford,shared,7.3,1,0
+1943-02_antrim,Antrim,1943-02-11,Antrim,namesake,17.0,1,0
+1943-02_midlothian_and_peebles_northern,Midlothian and Peebles Northern,1943-02-11,Peebles,,19.5,2,0
+1943-02_kings_lynn,King's Lynn,1943-02-12,King's Lynn,,0.3,1,0
+1943-02_portsmouth_north,Portsmouth North,1943-02-16,Portsmouth,,5.3,3,0
+1943-02_bristol_central,Bristol Central,1943-02-18,Bristol,,1.0,5,0
+1943-02_watford,Watford,1943-02-23,Watford,,0.7,1,0
+1943-04_buckingham,Buckingham,1943-04-04,Buckingham,,0.2,1,0
+1943-04_daventry,Daventry,1943-04-20,Daventry,,7.3,1,0
+1943-06_the_hartlepools,The Hartlepools,1943-06-01,Hartlepool,,5.4,1,0
+1943-06_newark,Newark,1943-06-08,Newark,,6.7,1,0
+1943-06_birmingham_aston,Birmingham Aston,1943-06-09,Aston,,0.2,1,0
+1943-06_birmingham_aston,Birmingham Aston,1943-06-09,Birmingham,,2.5,12,0
+1943-08_chippenham,Chippenham,1943-08-24,Chippenham,,10.3,1,0
+1943-10_st_albans,St Albans,1943-10-05,St Albans,,1.1,1,0
+1943-10_peterborough,Peterborough,1943-10-15,Peterborough,,1.1,1,0
+1943-11_consett,Consett,1943-11-15,Consett,,0.5,1,0
+1943-12_acton,Acton,1943-12-14,Acton,shared,0.9,1,0
+1943-12_darwen,Darwen,1943-12-15,Darwen,,0.3,1,0
+1944-01_skipton,Skipton,1944-01-07,Skipton,,0.2,1,0
+1944-02_brighton,Brighton,1944-02-03,Brighton,,0.9,1,0
+1944-02_kirkcaldy_burghs,Kirkcaldy Burghs,1944-02-17,Kirkcaldy,,0.8,1,0
+1944-02_sheffield_attercliffe,Sheffield Attercliffe,1944-02-21,Sheffield,,2.8,7,0
+1944-02_bury_st_edmunds,Bury St Edmunds,1944-02-29,Bury St Edmunds,,12.9,1,0
+1944-04_clay_cross,Clay Cross,1944-04-14,Clay Cross,,0.4,1,0
+1944-07_manchester_rusholme,Manchester Rusholme,1944-07-08,Manchester,,2.6,10,0
+1944-09_bilston,Bilston,1944-09-20,Bilston,,0.5,1,0
+1944-10_chelsea,Chelsea,1944-10-11,Chelsea,,0.1,1,0
+1944-10_berwick_upon_tweed,Berwick-upon-Tweed,1944-10-17,Berwick-upon-Tweed,,25.2,1,0
+1945-04_motherwell,Motherwell,1945-04-12,Motherwell,,0.2,1,0
+1945-04_chelmsford,Chelmsford,1945-04-26,Chelmsford,,1.5,1,0
+1945-05_middlesbrough_west,Middlesbrough West,1945-05-14,Middlesbrough,,,2,0
+1945-05_neath,Neath,1945-05-15,Neath,,6.8,1,0
+1945-05_newport,Newport,1945-05-17,Newport,shared,0.1,1,0
+1945-10_smethwick,Smethwick,1945-10-01,Smethwick,,2.4,1,0
+1945-10_ashton_under_lyne,Ashton-under-Lyne,1945-10-02,Ashton-under-Lyne,,1.0,1,0
+1945-10_edinburgh_east,Edinburgh East,1945-10-03,Edinburgh,,3.5,5,0
+1945-10_monmouth,Monmouth,1945-10-31,Monmouth,,8.5,1,0
+1945-10_city_of_london,City of London,1945-10-31,City of London,,0.0,1,0
+1945-11_bournemouth,Bournemouth,1945-11-15,Bournemouth,,0.2,1,0
+1945-11_kensington_south,Kensington South,1945-11-20,Kensington,,0.8,2,0
+1945-12_tottenham_north,Tottenham North,1945-12-13,Tottenham,,2.2,2,0
+1946-01_preston,Preston,1946-01-31,Preston,,1.3,1,0
+1946-02_glasgow_cathcart,Glasgow Cathcart,1946-02-12,Glasgow,,5.4,15,0
+1946-02_heywood_and_radcliffe,Heywood and Radcliffe,1946-02-21,Heywood,,0.3,1,0
+1946-02_heywood_and_radcliffe,Heywood and Radcliffe,1946-02-21,Radcliffe,,7.6,1,0
+1946-02_hemsworth,Hemsworth,1946-02-22,Hemsworth,,0.0,1,0
+1946-07_bexley,Bexley,1946-07-22,Bexley,,0.1,1,0
+1946-07_pontypool,Pontypool,1946-07-23,Pontypool,,0.3,1,0
+1946-07_battersea_north,Battersea North,1946-07-25,Battersea,,1.9,2,0
+1946-08_glasgow_bridgeton,Glasgow Bridgeton,1946-08-29,Glasgow,,2.8,15,0
+1946-11_aberdeen_south,Aberdeen South,1946-11-26,Aberdeen,,5.8,5,0
+1946-12_aberdare,Aberdare,1946-12-05,Aberdare,,0.3,1,0
+1946-12_kilmarnock,Kilmarnock,1946-12-05,Kilmarnock,,0.1,1,0
+1947-02_normanton,Normanton,1947-02-11,Normanton,,0.0,1,0
+1947-05_jarrow,Jarrow,1947-05-07,Jarrow,,2.2,1,0
+1947-09_liverpool_edge_hill,Liverpool Edge Hill,1947-09-11,Liverpool,,1.8,11,0
+1947-09_islington_west,Islington West,1947-09-25,Islington,,2.6,4,0
+1947-11_gravesend,Gravesend,1947-11-26,Gravesend,,0.2,1,0
+1947-11_edinburgh_east,Edinburgh East,1947-11-27,Edinburgh,,3.5,5,0
+1947-12_epsom,Epsom,1947-12-04,Epsom,,0.1,1,0
+1948-01_glasgow_camlachie,Glasgow Camlachie,1948-01-28,Glasgow,,2.9,15,0
+1948-02_paisley,Paisley,1948-02-18,Paisley,,1.6,1,0
+1948-03_wigan,Wigan,1948-03-04,Wigan,,0.4,1,0
+1948-03_croydon_north,Croydon North,1948-03-11,Croydon,,2.1,2,0
+1948-03_brigg,Brigg,1948-03-24,Brigg,,0.1,1,0
+1948-09_glasgow_gorbals,Glasgow Gorbals,1948-09-30,Glasgow,,1.9,15,0
+1948-10_stirling_and_falkirk,Stirling and Falkirk,1948-10-07,Falkirk,,7.6,1,0
+1948-10_stirling_and_falkirk,Stirling and Falkirk,1948-10-07,Stirling,,8.5,1,0
+1948-11_edmonton,Edmonton,1948-11-13,Edmonton,,0.3,1,0
+1948-11_glasgow_hillhead,Glasgow Hillhead,1948-11-25,Glasgow,,2.1,15,0
+1949-02_batley_and_morley,Batley and Morley,1949-02-17,Batley,,1.5,1,0
+1949-02_batley_and_morley,Batley and Morley,1949-02-17,Morley,,3.6,1,0
+1949-07_leeds_west,Leeds West,1949-07-21,Leeds,,1.9,6,0
+1949-12_bradford_south,Bradford South,1949-12-08,Bradford,,3.2,4,0
+1950-04_sheffield_neepsend,Sheffield Neepsend,1950-04-05,Sheffield,,1.2,7,0
+1950-05_brighouse_and_spenborough,Brighouse and Spenborough,1950-05-04,Brighouse,,0.8,1,0
+1950-09_leicester_north_east,Leicester North East,1950-09-28,Leicester,,3.3,4,0
+1950-10_glasgow_scotstoun,Glasgow Scotstoun,1950-10-25,Glasgow,,6.1,15,0
+1950-11_oxford,Oxford,1950-11-02,Oxford,,0.4,1,0
+1950-11_birmingham_handsworth,Birmingham Handsworth,1950-11-16,Birmingham,,4.8,13,0
+1950-11_belfast_west,Belfast West,1950-11-29,Belfast,,2.3,4,0
+1950-11_bristol_south_east,Bristol South East,1950-11-30,Bristol,,3.6,6,0
+1950-11_abertillery,Abertillery,1950-11-30,Abertillery,,0.3,1,0
+1951-02_bristol_west,Bristol West,1951-02-15,Bristol,,1.2,6,0
+1951-04_ormskirk,Ormskirk,1951-04-05,Ormskirk,,0.3,1,0
+1951-04_harrow_west,Harrow West,1951-04-21,Harrow,,2.3,3,0
+1951-05_londonderry,Londonderry,1951-05-19,Londonderry,,30.6,1,0
+1951-06_westhoughton,Westhoughton,1951-06-21,Westhoughton,,9.5,1,0
+1952-02_bournemouth_east_and_christchurch,Bournemouth East and Christchurch,1952-02-06,Bournemouth,,5.4,2,0
+1952-02_bournemouth_east_and_christchurch,Bournemouth East and Christchurch,1952-02-06,Christchurch,namesake,1.9,1,0
+1952-02_southport,Southport,1952-02-06,Southport,,0.2,1,0
+1952-02_leeds_south_east,Leeds South East,1952-02-07,Leeds,,3.7,7,0
+1952-07_dundee_east,Dundee East,1952-07-17,Dundee,,10.5,2,0
+1952-10_north_antrim,North Antrim,1952-10-27,Antrim,namesake,45.5,2,0
+1952-11_belfast_south,Belfast South,1952-11-04,Belfast,,1.6,4,0
+1952-11_birmingham_small_heath,Birmingham Small Heath,1952-11-27,Birmingham,,3.8,13,0
+1952-11_farnworth,Farnworth,1952-11-27,Farnworth,,0.5,1,0
+1953-02_canterbury,Canterbury,1953-02-12,Canterbury,,3.1,1,0
+1953-03_barnsley,Barnsley,1953-03-31,Barnsley,,0.5,1,0
+1953-03_stoke_on_trent_north,Stoke-on-Trent North,1953-03-31,Stoke-on-Trent,,5.2,3,0
+1953-04_hayes_and_harlington,Hayes and Harlington,1953-04-01,Hayes,shared,2.7,1,0
+1953-05_sunderland_south,Sunderland South,1953-05-13,Sunderland,,1.7,2,0
+1953-06_abingdon,Abingdon,1953-06-30,Abingdon,,0.5,1,0
+1953-07_birmingham_edgbaston,Birmingham Edgbaston,1953-07-02,Birmingham,,3.5,13,0
+1953-11_crosby,Crosby,1953-11-12,Crosby,,1.7,1,0
+1953-11_ormskirk,Ormskirk,1953-11-12,Ormskirk,,0.3,1,0
+1954-02_ilford_north,Ilford North,1954-02-03,Ilford,,4.1,2,0
+1954-02_harwich,Harwich,1954-02-11,Harwich,,9.6,1,0
+1954-02_bournemouth_west,Bournemouth West,1954-02-18,Bournemouth,,2.4,2,0
+1954-03_arundel_and_shoreham,Arundel and Shoreham,1954-03-09,Arundel,,0.1,1,0
+1954-03_harrogate,Harrogate,1954-03-11,Harrogate,,0.1,1,0
+1954-04_edinburgh_east,Edinburgh East,1954-04-08,Edinburgh,,3.5,7,0
+1954-04_motherwell,Motherwell,1954-04-14,Motherwell,,0.2,1,0
+1954-09_croydon_east,Croydon East,1954-09-30,Croydon,,4.6,3,0
+1954-10_wakefield,Wakefield,1954-10-21,Wakefield,,0.1,1,0
+1954-10_aldershot,Aldershot,1954-10-28,Aldershot,,2.9,1,0
+1954-10_aberdare,Aberdare,1954-10-28,Aberdare,,0.3,1,0
+1954-11_sutton_and_cheam,Sutton and Cheam,1954-11-04,Sutton,,1.5,3,0
+1954-11_morpeth,Morpeth,1954-11-04,Morpeth,,0.0,1,0
+1954-11_liverpool_west_derby,Liverpool West Derby,1954-11-18,Derby,,110.4,3,1
+1954-11_liverpool_west_derby,Liverpool West Derby,1954-11-18,Liverpool,,6.6,9,0
+1954-12_inverness,Inverness,1954-12-21,Inverness,,0.5,1,0
+1955-01_orpington,Orpington,1955-01-20,Orpington,,2.1,1,0
+1955-01_edinburgh_north,Edinburgh North,1955-01-27,Edinburgh,,2.7,7,0
+1955-02_stockport_south,Stockport South,1955-02-03,Stockport,,0.8,2,0
+1955-03_wrexham,Wrexham,1955-03-17,Wrexham,,4.3,1,0
+1955-12_gateshead_west,Gateshead West,1955-12-07,Gateshead,,2.1,2,0
+1955-12_greenock,Greenock,1955-12-08,Greenock,,0.4,1,0
+1955-12_torquay,Torquay,1955-12-15,Torquay,,0.2,1,0
+1956-02_blaydon,Blaydon,1956-02-02,Blaydon,,1.6,1,0
+1956-02_leeds_north_east,Leeds North East,1956-02-09,Leeds,,6.3,6,0
+1956-02_gainsborough,Gainsborough,1956-02-14,Gainsborough,,18.1,1,0
+1956-02_hereford,Hereford,1956-02-14,Hereford,,6.4,1,0
+1956-02_taunton,Taunton,1956-02-14,Taunton,,0.5,1,0
+1956-03_walthamstow_west,Walthamstow West,1956-03-01,Walthamstow,,,2,0
+1956-06_tonbridge,Tonbridge,1956-06-07,Tonbridge,,23.0,1,0
+1956-07_newport,Newport,1956-07-06,Newport,shared,0.1,1,0
+1956-09_chester_le_street,Chester-le-Street,1956-09-27,Chester-le-Street,,0.3,1,0
+1956-11_city_of_chester,City of Chester,1956-11-15,Chester,,3.1,2,0
+1957-02_carmarthen,Carmarthen,1957-02-28,Carmarthen,,12.9,1,0
+1957-02_wednesbury,Wednesbury,1957-02-28,Wednesbury,,0.3,1,0
+1957-03_bristol_west,Bristol West,1957-03-07,Bristol,,1.2,6,0
+1957-03_warwick_and_leamington,Warwick and Leamington,1957-03-07,Leamington,,5.7,1,0
+1957-03_warwick_and_leamington,Warwick and Leamington,1957-03-07,Warwick,,2.2,1,0
+1957-03_beckenham,Beckenham,1957-03-21,Beckenham,,2.2,1,0
+1957-03_newcastle_upon_tyne_north,Newcastle-upon-Tyne North,1957-03-21,Newcastle upon Tyne,,6.2,4,0
+1957-05_edinburgh_south,Edinburgh South,1957-05-29,Edinburgh,,4.9,7,0
+1957-09_gloucester,Gloucester,1957-09-12,Gloucester,,0.4,1,0
+1957-10_ipswich,Ipswich,1957-10-24,Ipswich,,0.3,1,0
+1957-11_leicester_south_east,Leicester South-East,1957-11-28,Leicester,,3.7,4,0
+1957-12_liverpool_garston,Liverpool Garston,1957-12-05,Garston,,3.7,1,0
+1957-12_liverpool_garston,Liverpool Garston,1957-12-05,Liverpool,,9.5,9,0
+1958-02_rochdale,Rochdale,1958-02-12,Rochdale,,0.9,1,0
+1958-03_glasgow_kelvingrove,Glasgow Kelvingrove,1958-03-13,Glasgow,,1.6,15,0
+1958-05_islington_north,Islington North,1958-05-15,Islington,,2.9,3,0
+1958-06_wigan,Wigan,1958-06-12,Wigan,,0.4,1,0
+1958-06_weston_super_mare,Weston-super-Mare,1958-06-12,Weston-super-Mare,,6.9,1,0
+1958-06_st_helens,St Helens,1958-06-12,St Helens,,1.0,1,0
+1958-11_morecambe_and_lonsdale,Morecambe and Lonsdale,1958-11-06,Morecambe,,0.7,1,0
+1958-11_chichester,Chichester,1958-11-06,Chichester,,0.1,1,0
+1958-11_pontypool,Pontypool,1958-11-10,Pontypool,,0.3,1,0
+1959-01_southend_west,Southend West,1959-01-29,Southend,,4.0,2,0
+1959-03_belfast_east,Belfast East,1959-03-19,Belfast,,2.1,4,0
+1959-03_harrow_east,Harrow East,1959-03-19,Harrow,,3.3,3,0
+1959-06_penistone,Penistone,1959-06-11,Penistone,,0.1,1,0
+1959-06_whitehaven,Whitehaven,1959-06-18,Whitehaven,,0.1,1,0
+1960-03_brighouse_and_spenborough,Brighouse and Spenborough,1960-03-17,Brighouse,,0.8,1,0
+1960-03_harrow_west,Harrow West,1960-03-17,Harrow,,2.3,3,0
+1960-05_edinburgh_north,Edinburgh North,1960-05-19,Edinburgh,,2.7,7,0
+1960-11_bolton_east,Bolton East,1960-11-16,Bolton,,2.8,2,0
+1960-11_carshalton,Carshalton,1960-11-16,Carshalton,,0.6,1,0
+1960-11_ludlow,Ludlow,1960-11-16,Ludlow,,13.5,1,0
+1960-11_petersfield,Petersfield,1960-11-16,Petersfield,,0.2,1,0
+1960-11_tiverton,Tiverton,1960-11-16,Tiverton,,0.3,1,0
+1960-11_ebbw_vale,Ebbw Vale,1960-11-17,Ebbw Vale,,0.3,1,0
+1960-11_blyth,Blyth,1960-11-24,Blyth,,0.9,1,0
+1961-03_worcester,Worcester,1961-03-16,Worcester,,1.8,1,0
+1961-03_high_peak,High Peak,1961-03-16,High Peak,,2.0,1,0
+1961-03_colchester,Colchester,1961-03-16,Colchester,,0.4,1,0
+1961-03_birmingham_small_heath,Birmingham Small Heath,1961-03-23,Birmingham,,3.8,13,0
+1961-04_paisley,Paisley,1961-04-20,Paisley,,1.6,1,0
+1961-04_warrington,Warrington,1961-04-20,Warrington,,1.6,1,0
+1961-05_bristol_south_east,Bristol South East,1961-05-04,Bristol,,3.6,6,0
+1961-11_manchester_moss_side,Manchester Moss Side,1961-11-07,Manchester,,2.5,9,0
+1961-11_oswestry,Oswestry,1961-11-09,Oswestry,,0.1,1,0
+1961-11_glasgow_bridgeton,Glasgow Bridgeton,1961-11-16,Glasgow,,2.8,15,0
+1962-03_lincoln,Lincoln,1962-03-08,Lincoln,,0.4,1,0
+1962-03_blackpool_north,Blackpool North,1962-03-13,Blackpool,,10.3,2,0
+1962-03_middlesbrough_east,Middlesbrough East,1962-03-14,Middlesbrough,,,2,0
+1962-03_orpington,Orpington,1962-03-14,Orpington,,2.1,1,0
+1962-03_pontefract,Pontefract,1962-03-22,Pontefract,,0.0,1,0
+1962-04_stockton_on_tees,Stockton-on-Tees,1962-04-05,Stockton,,2.3,1,0
+1962-04_derby_north,Derby North,1962-04-17,Derby,,3.2,3,0
+1962-06_middlesbrough_west,Middlesbrough West,1962-06-06,Middlesbrough,,,2,0
+1962-07_leicester_north_east,Leicester North East,1962-07-12,Leicester,,3.3,4,0
+1962-11_chippenham,Chippenham,1962-11-22,Chippenham,,10.3,1,0
+1962-11_glasgow_woodside,Glasgow Woodside,1962-11-22,Glasgow,,1.0,15,0
+1963-03_colne_valley,Colne Valley,1963-03-21,Colne,,33.2,2,1
+1963-03_rotherham,Rotherham,1963-03-28,Rotherham,,0.0,1,0
+1963-03_swansea_east,Swansea East,1963-03-28,Swansea,,3.7,2,0
+1963-06_leeds_south,Leeds South,1963-06-20,Leeds,,2.6,6,0
+1963-07_west_bromwich,West Bromwich,1963-07-04,West Bromwich,,0.1,1,0
+1963-08_stratford,Stratford,1963-08-15,Stratford,namesake,1.2,1,0
+1963-08_bristol_south_east,Bristol South East,1963-08-20,Bristol,,3.6,6,0
+1963-10_belfast_south,Belfast South,1963-10-22,Belfast,,1.6,4,0
+1963-11_kinross_and_western_perthshire,Kinross and Western Perthshire,1963-11-07,Kinross,,15.0,1,0
+1963-11_luton,Luton,1963-11-07,Luton,,1.5,1,0
+1963-11_dundee_west,Dundee West,1963-11-21,Dundee,,7.8,2,0
+1963-12_manchester_openshaw,Manchester Openshaw,1963-12-05,Manchester,,7.2,9,0
+1963-12_sudbury_and_woodbridge,Sudbury and Woodbridge,1963-12-05,Sudbury,,0.4,1,0
+1963-12_sudbury_and_woodbridge,Sudbury and Woodbridge,1963-12-05,Woodbridge,,40.8,1,0
+1964-05_devizes,Devizes,1964-05-14,Devizes,,0.1,1,0
+1964-05_rutherglen,Rutherglen,1964-05-14,Rutherglen,,5.3,1,0
+1964-05_winchester,Winchester,1964-05-14,Winchester,,0.3,1,0
+1964-05_bury_st_edmunds,Bury St Edmunds,1964-05-14,Bury St Edmunds,,12.9,1,0
+1964-06_faversham,Faversham,1964-06-04,Faversham,,0.4,1,0
+1964-06_liverpool_scotland,Liverpool Scotland,1964-06-11,Liverpool,,0.5,9,0
+1965-01_nuneaton,Nuneaton,1965-01-21,Nuneaton,,2.8,1,0
+1965-02_salisbury,Salisbury,1965-02-04,Salisbury,namesake,0.4,1,0
+1965-02_altrincham_and_sale,Altrincham and Sale,1965-02-04,Altrincham,,0.7,1,0
+1965-02_altrincham_and_sale,Altrincham and Sale,1965-02-04,Sale,word,5.1,1,0
+1965-02_east_grinstead,East Grinstead,1965-02-04,East Grinstead,,0.1,1,0
+1965-03_saffron_walden,Saffron Walden,1965-03-23,Saffron Walden,,11.0,1,0
+1965-03_roxburgh_selkirk_and_peebles,"Roxburgh, Selkirk and Peebles",1965-03-24,Peebles,,45.6,1,0
+1965-03_roxburgh_selkirk_and_peebles,"Roxburgh, Selkirk and Peebles",1965-03-24,Selkirk,,23.1,1,0
+1965-04_abertillery,Abertillery,1965-04-01,Abertillery,,0.3,1,0
+1965-05_birmingham_hall_green,Birmingham Hall Green,1965-05-06,Birmingham,,7.0,13,0
+1965-07_hove,Hove,1965-07-22,Hove,,0.6,1,0
+1965-11_cities_of_london_and_westminster,Cities of London and Westminster,1965-11-04,London,,0.3,1,0
+1966-01_kingston_upon_hull_north,Kingston upon Hull North,1966-01-27,Hull,shared,,3,0
+1966-07_carmarthen,Carmarthen,1966-07-14,Carmarthen,,12.9,1,0
+1967-03_glasgow_pollok,Glasgow Pollok,1967-03-09,Glasgow,,1.3,15,0
+1967-03_nuneaton,Nuneaton,1967-03-09,Nuneaton,,2.8,1,0
+1967-03_rhondda_west,Rhondda West,1967-03-09,Rhondda,,2.9,2,0
+1967-03_honiton,Honiton,1967-03-16,Honiton,,0.1,1,0
+1967-04_brierley_hill,Brierley Hill,1967-04-27,Brierley Hill,,0.3,1,0
+1967-09_cambridge,Cambridge,1967-09-21,Cambridge,,1.0,1,0
+1967-09_walthamstow_west,Walthamstow West,1967-09-21,Walthamstow,,,2,0
+1967-11_hamilton,Hamilton,1967-11-02,Hamilton,namesake,1.2,1,0
+1967-11_leicester_south_west,Leicester South West,1967-11-02,Leicester,,3.8,4,0
+1967-11_manchester_gorton,Manchester Gorton,1967-11-02,Manchester,,2.1,9,0
+1968-03_kensington_south,Kensington South,1968-03-14,Kensington,,0.8,2,0
+1968-03_acton,Acton,1968-03-28,Acton,shared,0.9,1,0
+1968-03_dudley,Dudley,1968-03-28,Dudley,,2.9,1,0
+1968-03_warwick_and_leamington,Warwick and Leamington,1968-03-28,Leamington,,5.7,1,0
+1968-03_warwick_and_leamington,Warwick and Leamington,1968-03-28,Warwick,,2.2,1,0
+1968-06_oldham_west,Oldham West,1968-06-13,Oldham,,2.5,2,0
+1968-06_sheffield_brightside,Sheffield Brightside,1968-06-13,Sheffield,,3.2,6,0
+1968-06_nelson_and_colne,Nelson and Colne,1968-06-27,Colne,,4.1,2,0
+1968-06_nelson_and_colne,Nelson and Colne,1968-06-27,Nelson,namesake,1.2,1,0
+1968-07_caerphilly,Caerphilly,1968-07-18,Caerphilly,,0.5,1,0
+1969-03_weston_super_mare,Weston-super-Mare,1969-03-27,Weston-super-Mare,,6.9,1,0
+1969-03_walthamstow_east,Walthamstow East,1969-03-27,Walthamstow,,,2,0
+1969-03_brighton_pavilion,Brighton Pavilion,1969-03-27,Brighton,,0.3,2,0
+1969-05_chichester,Chichester,1969-05-22,Chichester,,0.1,1,0
+1969-06_birmingham_ladywood,Birmingham Ladywood,1969-06-26,Birmingham,,2.2,13,0
+1969-10_glasgow_gorbals,Glasgow Gorbals,1969-10-30,Glasgow,,1.9,15,0
+1969-10_islington_north,Islington North,1969-10-30,Islington,,2.9,3,0
+1969-10_newcastle_under_lyme,Newcastle-under-Lyme,1969-10-30,Newcastle-under-Lyme,,5.8,1,0
+1969-10_swindon,Swindon,1969-10-30,Swindon,,3.1,1,0
+1969-12_louth,Louth,1969-12-04,Louth,namesake,31.3,1,0
+1969-12_wellingborough,Wellingborough,1969-12-04,Wellingborough,,0.5,1,0
+1970-03_bridgwater,Bridgwater,1970-03-12,Bridgwater,,7.2,1,0
+1971-04_liverpool_scotland,Liverpool Scotland,1971-04-01,Liverpool,,0.5,9,0
+1971-04_arundel_and_shoreham,Arundel and Shoreham,1971-04-01,Arundel,,0.1,1,0
+1971-05_southampton_itchen,Southampton Itchen,1971-05-27,Southampton,,4.1,2,0
+1971-05_bromsgrove,Bromsgrove,1971-05-27,Bromsgrove,,7.6,1,0
+1971-05_goole,Goole,1971-05-27,Goole,,0.4,1,0
+1971-06_hayes_and_harlington,Hayes and Harlington,1971-06-17,Hayes,shared,2.7,1,0
+1971-07_greenwich,Greenwich,1971-07-08,Greenwich,,0.8,1,0
+1971-09_stirling_and_falkirk,Stirling and Falkirk,1971-09-16,Falkirk,,7.6,1,0
+1971-09_stirling_and_falkirk,Stirling and Falkirk,1971-09-16,Stirling,,8.5,1,0
+1971-09_widnes,Widnes,1971-09-23,Widnes,,0.4,1,0
+1971-09_macclesfield,Macclesfield,1971-09-30,Macclesfield,,6.3,1,0
+1972-04_merthyr_tydfil,Merthyr Tydfil,1972-04-13,Merthyr,,0.1,1,0
+1972-10_rochdale,Rochdale,1972-10-26,Rochdale,,0.9,1,0
+1972-12_uxbridge,Uxbridge,1972-12-07,Uxbridge,,1.7,1,0
+1972-12_sutton_and_cheam,Sutton and Cheam,1972-12-07,Sutton,,1.5,3,0
+1973-03_chester_le_street,Chester-le-Street,1973-03-01,Chester-le-Street,,0.3,1,0
+1973-03_dundee_east,Dundee East,1973-03-01,Dundee,,10.5,2,0
+1973-03_lincoln,Lincoln,1973-03-01,Lincoln,,0.4,1,0
+1973-05_west_bromwich,West Bromwich,1973-05-24,West Bromwich,,0.1,1,0
+1973-05_westhoughton,Westhoughton,1973-05-24,Westhoughton,,9.5,1,0
+1973-06_manchester_exchange,Manchester Exchange,1973-06-27,Manchester,,7.2,9,0
+1973-07_isle_of_ely,Isle of Ely,1973-07-26,Ely,,0.0,1,0
+1973-07_ripon,Ripon,1973-07-26,Ripon,,0.4,1,0
+1973-11_berwick_upon_tweed,Berwick-upon-Tweed,1973-11-08,Berwick-upon-Tweed,,25.2,1,0
+1973-11_edinburgh_north,Edinburgh North,1973-11-08,Edinburgh,,2.7,7,0
+1973-11_glasgow_govan,Glasgow Govan,1973-11-08,Glasgow,,4.0,15,0
+1973-11_hove,Hove,1973-11-08,Hove,,0.6,1,0
+1976-03_coventry_north_west,Coventry North West,1976-03-04,Coventry,,4.2,4,0
+1976-03_carshalton,Carshalton,1976-03-11,Carshalton,,0.6,1,0
+1976-06_rotherham,Rotherham,1976-06-24,Rotherham,,0.0,1,0
+1976-11_newcastle_upon_tyne_central,Newcastle-upon-Tyne Central,1976-11-04,Newcastle upon Tyne,,,4,0
+1976-11_walsall_north,Walsall North,1976-11-04,Walsall,,3.3,2,0
+1976-11_workington,Workington,1976-11-04,Workington,,0.3,1,0
+1976-12_cambridge,Cambridge,1976-12-02,Cambridge,,1.0,1,0
+1977-02_city_of_london_and_westminster_south,City of London and Westminster South,1977-02-24,City of London,,2.7,1,0
+1977-03_birmingham_stechford,Birmingham Stechford,1977-03-31,Birmingham,,6.3,12,0
+1977-04_grimsby,Grimsby,1977-04-28,Grimsby,,,1,0
+1977-07_saffron_walden,Saffron Walden,1977-07-07,Saffron Walden,,11.0,1,0
+1977-08_birmingham_ladywood,Birmingham Ladywood,1977-08-18,Birmingham,,2.2,12,0
+1977-11_bournemouth_east,Bournemouth East,1977-11-24,Bournemouth,,5.4,2,0
+1978-03_ilford_north,Ilford North,1978-03-02,Ilford,,4.1,2,0
+1978-04_glasgow_garscadden,Glasgow Garscadden,1978-04-13,Glasgow,,1.3,14,0
+1978-04_epsom_and_ewell,Epsom and Ewell,1978-04-27,Epsom,,0.1,1,0
+1978-04_epsom_and_ewell,Epsom and Ewell,1978-04-27,Ewell,,2.6,1,0
+1978-05_hamilton,Hamilton,1978-05-31,Hamilton,namesake,1.2,1,0
+1978-07_manchester_moss_side,Manchester Moss Side,1978-07-13,Manchester,,2.5,8,0
+1978-07_penistone,Penistone,1978-07-13,Penistone,,0.1,1,0
+1978-10_berwick_and_east_lothian,Berwick and East Lothian,1978-10-26,Berwick,shared,49.1,2,0
+1978-10_pontefract_and_castleford,Pontefract and Castleford,1978-10-26,Castleford,,3.7,1,0
+1978-10_pontefract_and_castleford,Pontefract and Castleford,1978-10-26,Pontefract,,1.9,1,0
+1979-03_clitheroe,Clitheroe,1979-03-01,Clitheroe,,0.5,1,0
+1979-03_knutsford,Knutsford,1979-03-01,Knutsford,,0.3,1,0
+1979-03_liverpool_edge_hill,Liverpool Edge Hill,1979-03-29,Liverpool,,1.8,8,0
+1979-09_manchester_central,Manchester Central,1979-09-27,Manchester,,1.3,8,0
+1980-03_southend_east,Southend East,1980-03-13,Southend,,2.5,2,0
+1980-06_glasgow_central,Glasgow Central,1980-06-26,Glasgow,,2.8,14,0
+1981-07_warrington,Warrington,1981-07-16,Warrington,,1.6,1,0
+1981-10_croydon_north_west,Croydon North West,1981-10-22,Croydon,,1.0,4,0
+1981-11_crosby,Crosby,1981-11-26,Crosby,,1.7,1,0
+1982-03_belfast_south,Belfast South,1982-03-04,Belfast,,1.6,4,0
+1982-03_glasgow_hillhead,Glasgow Hillhead,1982-03-25,Glasgow,,2.1,14,0
+1982-05_beaconsfield,Beaconsfield,1982-05-27,Beaconsfield,,0.1,1,0
+1982-06_mitcham_and_morden,Mitcham and Morden,1982-06-03,Mitcham,,0.6,1,0
+1982-06_mitcham_and_morden,Mitcham and Morden,1982-06-03,Morden,,1.6,1,0
+1982-06_coatbridge_and_airdrie,Coatbridge and Airdrie,1982-06-24,Airdrie,,2.9,1,0
+1982-06_coatbridge_and_airdrie,Coatbridge and Airdrie,1982-06-24,Coatbridge,,0.1,1,0
+1982-10_peckham,Peckham,1982-10-28,Peckham,,0.4,1,0
+1982-10_birmingham_northfield,Birmingham Northfield,1982-10-28,Birmingham,,10.6,12,0
+1982-12_glasgow_queens_park,Glasgow Queen's Park,1982-12-02,Glasgow,,3.9,14,0
+1983-03_darlington,Darlington,1983-03-24,Darlington,,0.6,1,0
+1983-07_penrith_and_the_border,Penrith and the Border,1983-07-28,Penrith,,5.3,1,0
+1984-03_chesterfield,Chesterfield,1984-03-01,Chesterfield,,1.1,1,0
+1984-05_stafford,Stafford,1984-05-03,Stafford,,3.1,1,0
+1984-06_portsmouth_south,Portsmouth South,1984-06-14,Portsmouth,,1.6,2,0
+1985-07_brecon_and_radnor,Brecon and Radnor,1985-07-04,Brecon,,16.3,1,0
+1986-01_newry_and_armagh,Newry & Armagh,1986-01-23,Newry,,18.8,1,0
+1986-01_north_antrim,North Antrim,1986-01-23,Antrim,namesake,45.5,3,0
+1986-01_east_antrim,East Antrim,1986-01-23,Antrim,namesake,26.7,3,0
+1986-01_south_antrim,South Antrim,1986-01-23,Antrim,namesake,2.0,3,0
+1986-01_belfast_north,Belfast North,1986-01-23,Belfast,,7.8,4,0
+1986-01_belfast_south,Belfast South,1986-01-23,Belfast,,1.6,4,0
+1986-01_east_londonderry,East Londonderry,1986-01-23,Londonderry,,23.5,1,0
+1986-01_belfast_east,Belfast East,1986-01-23,Belfast,,2.1,4,0
+1986-04_fulham,Fulham,1986-04-10,Fulham,,1.1,1,0
+1986-07_newcastle_under_lyme,Newcastle-under-Lyme,1986-07-17,Newcastle-under-Lyme,,5.8,1,0
+1987-02_greenwich,Greenwich,1987-02-26,Greenwich,,0.8,1,0
+1987-03_truro,Truro,1987-03-12,Truro,,0.6,1,0
+1988-07_kensington,Kensington,1988-07-14,Kensington,,0.8,1,0
+1988-11_glasgow_govan,Glasgow Govan,1988-11-10,Glasgow,,4.0,12,0
+1988-12_epping_forest,Epping Forest,1988-12-15,Epping,,3.5,1,0
+1989-02_pontypridd,Pontypridd,1989-02-23,Pontypridd,,0.6,1,0
+1989-02_richmond,Richmond,1989-02-23,Richmond,shared,,2,0
+1989-06_glasgow_central,Glasgow Central,1989-06-15,Glasgow,,2.8,12,0
+1990-10_eastbourne,Eastbourne,1990-10-18,Eastbourne,,1.0,1,0
+1990-11_bradford_north,Bradford North,1990-11-08,Bradford,,2.5,3,0
+1990-11_paisley_north,Paisley North,1990-11-29,Paisley,,4.1,2,0
+1990-11_paisley_south,Paisley South,1990-11-29,Paisley,,1.1,2,0
+1991-04_neath,Neath,1991-04-04,Neath,,6.8,1,0
+1991-05_monmouth,Monmouth,1991-05-16,Monmouth,,8.5,1,0
+1991-07_liverpool_walton,Liverpool Walton,1991-07-04,Liverpool,,4.1,6,0
+1991-11_hemsworth,Hemsworth,1991-11-07,Hemsworth,,0.0,1,0
+1991-11_kincardine_and_deeside,Kincardine and Deeside,1991-11-07,Deeside,,321.9,2,1
+1993-05_newbury,Newbury,1993-05-06,Newbury,,6.6,1,0
+1993-07_christchurch,Christchurch,1993-07-29,Christchurch,namesake,8.4,1,0
+1994-05_rotherham,Rotherham,1994-05-05,Rotherham,,0.0,1,0
+1994-06_dagenham,Dagenham,1994-06-09,Dagenham,,0.9,1,0
+1994-06_bradford_south,Bradford South,1994-06-09,Bradford,,3.2,3,0
+1994-06_eastleigh,Eastleigh,1994-06-09,Eastleigh,,3.0,1,0
+1994-06_barking,Barking,1994-06-09,Barking,,1.9,1,0
+1994-12_dudley_west,Dudley West,1994-12-15,Dudley,,2.9,2,0
+1995-05_perth_and_kinross,Perth and Kinross,1995-05-25,Kinross,,23.8,1,0
+1995-05_perth_and_kinross,Perth and Kinross,1995-05-25,Perth,namesake,4.0,1,0
+1995-07_littleborough_and_saddleworth,Littleborough and Saddleworth,1995-07-27,Littleborough,,0.5,1,0
+1995-07_littleborough_and_saddleworth,Littleborough and Saddleworth,1995-07-27,Saddleworth,,12.0,1,0
+1996-02_hemsworth,Hemsworth,1996-02-01,Hemsworth,,0.0,1,0
+1996-12_barnsley_east,Barnsley East,1996-12-12,Barnsley,,6.9,3,0
+1997-07_uxbridge,Uxbridge,1997-07-31,Uxbridge,,1.7,1,0
+1997-11_paisley_south,Paisley South,1997-11-06,Paisley,,1.1,2,0
+1997-11_beckenham,Beckenham,1997-11-20,Beckenham,,2.2,1,0
+1997-11_winchester,Winchester,1997-11-20,Winchester,,0.3,1,0
+1999-06_leeds_central,Leeds Central,1999-06-10,Leeds,,2.4,5,0
+1999-09_hamilton_south,Hamilton South,1999-09-23,Hamilton,namesake,1.4,2,0
+1999-09_wigan,Wigan,1999-09-23,Wigan,,0.4,1,0
+1999-11_kensington_and_chelsea,Kensington and Chelsea,1999-11-25,Chelsea,,1.4,1,0
+1999-11_kensington_and_chelsea,Kensington and Chelsea,1999-11-25,Kensington,,0.8,2,0
+2000-05_romsey,Romsey,2000-05-04,Romsey,,1.8,1,0
+2000-06_tottenham,Tottenham,2000-06-22,Tottenham,,2.2,1,0
+2000-09_south_antrim,South Antrim,2000-09-21,Antrim,namesake,2.0,3,0
+2000-11_glasgow_anniesland,Glasgow Anniesland,2000-11-23,Glasgow,,5.2,10,0
+2000-11_preston,Preston,2000-11-23,Preston,,1.3,1,0
+2000-11_west_bromwich_west,West Bromwich West,2000-11-23,West Bromwich,,4.0,2,0
+2000-12_falkirk_west,Falkirk West,2000-12-21,Falkirk,,6.3,2,0
+2001-11_ipswich,Ipswich,2001-11-22,Ipswich,,0.3,2,0
+2003-09_brent_east,Brent East,2003-09-18,Brent,,5.0,3,0
+2004-07_leicester_south,Leicester South,2004-07-15,Leicester,,4.3,3,0
+2004-07_birmingham_hodge_hill,Birmingham Hodge Hill,2004-07-15,Birmingham,,5.8,10,0
+2004-09_hartlepool,Hartlepool,2004-09-30,Hartlepool,,5.4,1,0
+2005-07_cheadle,Cheadle,2005-07-14,Cheadle,shared,0.5,1,0
+2005-09_livingston,Livingston,2005-09-29,Livingston,,1.0,1,0
+2006-02_dunfermline_and_west_fife,Dunfermline and West Fife,2006-02-09,Dunfermline,,2.4,1,0
+2006-06_bromley_and_chislehurst,Bromley and Chislehurst,2006-06-29,Chislehurst,,2.6,1,0
+2007-07_sedgefield,Sedgefield,2007-07-19,Sedgefield,,6.6,1,0
+2007-07_ealing_southall,Ealing Southall,2007-07-19,Southall,,1.3,1,0
+2008-05_crewe_and_nantwich,Crewe and Nantwich,2008-05-22,Crewe,,3.2,1,0
+2008-05_crewe_and_nantwich,Crewe and Nantwich,2008-05-22,Nantwich,,3.0,1,0
+2008-06_henley,Henley,2008-06-26,Henley,,16.0,1,0
+2008-07_haltemprice_and_howden,Haltemprice and Howden,2008-07-10,Howden,,13.0,1,0
+2008-07_glasgow_east,Glasgow East,2008-07-24,Glasgow,,7.0,7,0
+2008-11_glenrothes,Glenrothes,2008-11-06,Glenrothes,,0.2,1,0
+2009-07_norwich_north,Norwich North,2009-07-23,Norwich,,2.5,2,0
+2009-11_glasgow_north_east,Glasgow North East,2009-11-12,Glasgow,,3.7,7,0
+2011-01_oldham_east_and_saddleworth,Oldham East and Saddleworth,2011-01-13,Oldham,,6.7,2,0
+2011-01_oldham_east_and_saddleworth,Oldham East and Saddleworth,2011-01-13,Saddleworth,,8.5,1,0
+2011-03_barnsley_central,Barnsley Central,2011-03-03,Barnsley,,0.5,2,0
+2011-05_leicester_south,Leicester South,2011-05-05,Leicester,,4.3,3,0
+2011-06_belfast_west,Belfast West,2011-06-09,Belfast,,2.3,4,0
+2011-12_feltham_and_heston,Feltham and Heston,2011-12-15,Feltham,,1.5,1,0
+2011-12_feltham_and_heston,Feltham and Heston,2011-12-15,Heston,,3.6,1,0
+2012-03_bradford_west,Bradford West,2012-03-29,Bradford,,2.6,3,0
+2012-11_manchester_central,Manchester Central,2012-11-15,Manchester,,1.3,3,0
+2012-11_corby,Corby,2012-11-15,Corby,,10.9,1,0
+2012-11_cardiff_south_and_penarth,Cardiff South and Penarth,2012-11-15,Cardiff,,3.9,4,0
+2012-11_cardiff_south_and_penarth,Cardiff South and Penarth,2012-11-15,Penarth,,4.7,1,0
+2012-11_rotherham,Rotherham,2012-11-29,Rotherham,,0.0,1,0
+2012-11_middlesbrough,Middlesbrough,2012-11-29,Middlesbrough,,2.1,2,0
+2012-11_croydon_north,Croydon North,2012-11-29,Croydon,,2.1,3,0
+2013-02_eastleigh,Eastleigh,2013-02-28,Eastleigh,,3.0,1,0
+2013-05_south_shields,South Shields,2013-05-02,South Shields,,3.1,1,0
+2014-02_wythenshawe_and_sale_east,Wythenshawe and Sale East,2014-02-13,Sale,word,4.0,2,0
+2014-06_newark,Newark,2014-06-05,Newark,,6.7,1,0
+2014-10_heywood_and_middleton,Heywood and Middleton,2014-10-09,Heywood,,2.6,1,0
+2014-10_heywood_and_middleton,Heywood and Middleton,2014-10-09,Middleton,,2.3,1,0
+2014-10_clacton,Clacton,2014-10-09,Clacton,,4.5,1,0
+2014-11_rochester_and_strood,Rochester and Strood,2014-11-20,Rochester,,1.4,1,0
+2014-11_rochester_and_strood,Rochester and Strood,2014-11-20,Strood,,1.8,1,0
+2015-12_oldham_west_and_royton,Oldham West and Royton,2015-12-03,Oldham,,6.7,2,0
+2015-12_oldham_west_and_royton,Oldham West and Royton,2015-12-03,Royton,,4.2,1,0
+2016-05_sheffield_brightside_and_hillsborough,Sheffield Brightside and Hillsborough,2016-05-05,Sheffield,,3.3,5,0
+2016-06_tooting,Tooting,2016-06-16,Tooting,,1.4,1,0
+2016-10_batley_and_spen,Batley and Spen,2016-10-20,Batley,,1.6,1,0
+2016-10_witney,Witney,2016-10-20,Witney,,2.1,1,0
+2016-12_richmond_park,Richmond Park,2016-12-01,Richmond,shared,2.6,2,0
+2016-12_sleaford_and_north_hykeham,Sleaford and North Hykeham,2016-12-08,North Hykeham,,16.6,1,0
+2016-12_sleaford_and_north_hykeham,Sleaford and North Hykeham,2016-12-08,Sleaford,,8.4,1,0
+2017-02_stoke_on_trent_central,Stoke-on-Trent Central,2017-02-23,Stoke-on-Trent,,1.4,3,0
+2019-04_newport_west,Newport West,2019-04-04,Newport,shared,3.1,2,0
+2019-06_peterborough,Peterborough,2019-06-06,Peterborough,,1.1,1,0
+2019-08_brecon_and_radnorshire,Brecon and Radnorshire,2019-08-01,Brecon,,16.3,1,0
+2021-05_hartlepool,Hartlepool,2021-05-06,Hartlepool,,5.4,1,0
+2021-05_airdrie_and_shotts,Airdrie and Shotts,2021-05-13,Airdrie,,6.0,1,0
+2021-06_chesham_and_amersham,Chesham and Amersham,2021-06-17,Amersham,,3.1,1,0
+2021-06_chesham_and_amersham,Chesham and Amersham,2021-06-17,Chesham,,1.0,1,0
+2021-07_batley_and_spen,Batley and Spen,2021-07-01,Batley,,1.6,1,0
+2021-12_old_bexley_and_sidcup,Old Bexley and Sidcup,2021-12-02,Bexley,,2.0,1,0
+2022-02_southend_west,Southend West,2022-02-03,Southend,,4.0,2,0
+2022-03_birmingham_erdington,Birmingham Erdington,2022-03-03,Birmingham,,3.8,9,0
+2022-06_wakefield,Wakefield,2022-06-23,Wakefield,,0.1,1,0
+2022-06_tiverton_and_honiton,Tiverton and Honiton,2022-06-23,Honiton,,11.6,1,0
+2022-06_tiverton_and_honiton,Tiverton and Honiton,2022-06-23,Tiverton,,13.1,1,0
+2022-12_city_of_chester,City of Chester,2022-12-01,Chester,,3.1,1,0
+2022-12_stretford_and_urmston,Stretford and Urmston,2022-12-15,Stretford,,0.9,1,0
+2022-12_stretford_and_urmston,Stretford and Urmston,2022-12-15,Urmston,,1.6,1,0
+2023-07_selby_and_ainsty,Selby and Ainsty,2023-07-20,Selby,,1.1,1,0
+2023-07_somerton_and_frome,Somerton and Frome,2023-07-20,Frome,,19.4,1,0
+2023-07_somerton_and_frome,Somerton and Frome,2023-07-20,Somerton,,16.4,1,0
+2023-07_uxbridge_and_south_ruislip,Uxbridge and South Ruislip,2023-07-20,South Ruislip,,2.7,1,0
+2023-07_uxbridge_and_south_ruislip,Uxbridge and South Ruislip,2023-07-20,Uxbridge,,3.1,1,0
+2023-10_rutherglen_and_hamilton_west,Rutherglen and Hamilton West,2023-10-05,Hamilton,namesake,10.7,2,0
+2023-10_rutherglen_and_hamilton_west,Rutherglen and Hamilton West,2023-10-05,Rutherglen,,2.6,1,0
+2023-10_tamworth,Tamworth,2023-10-19,Tamworth,,3.9,1,0
+2024-02_wellingborough,Wellingborough,2024-02-15,Wellingborough,,0.5,1,0
+2024-02_kingswood,Kingswood,2024-02-15,Kingswood,,1.1,1,0
+2024-02_rochdale,Rochdale,2024-02-29,Rochdale,,0.9,1,0
+2024-05_blackpool_south,Blackpool South,2024-05-02,Blackpool,,10.5,2,0
+2025-05_runcorn_and_helsby,Runcorn and Helsby,2025-05-01,Runcorn,,7.4,1,0
+2026-02_gorton_and_denton,Gorton and Denton,2026-02-26,Denton,,1.2,1,0
+2026-06_arbroath_and_broughty_ferry,Arbroath and Broughty Ferry,2026-06-18,Arbroath,,7.6,1,0
+2026-06_arbroath_and_broughty_ferry,Arbroath and Broughty Ferry,2026-06-18,Broughty Ferry,,15.7,1,0
+2026-06_aberdeen_south,Aberdeen South,2026-06-18,Aberdeen,,5.8,2,0
+2026-08_clacton,Clacton,2026-08-13,Clacton,,4.5,1,0

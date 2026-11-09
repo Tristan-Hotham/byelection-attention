@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Do by-elections make Parliament listen? | Commons attention to {{sample.pairs|int}} by-election towns</title>
+<meta name="description" content="When a UK seat holds a by-election, does the House of Commons talk more about the town, and for how long? Hansard mentions around {{sample.byelections|int}} by-elections, {{sample.first}} to {{sample.last}}.">
+<meta property="og:title" content="Do by-elections make Parliament listen?">
+<meta property="og:description" content="Around polling day the Commons says the town's name {{x.result|f1}} times as often as in matched towns; a year later still {{x.year1|f1}} times.">
+<meta property="og:image" content="https://maps.tristanhotham.com/byelection-attention/header.png">
+<meta property="og:url" content="https://maps.tristanhotham.com/byelection-attention/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800;9..144,900&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+<style>
+{{CSS}}
+</style></head>
+<body>
+<div class="topbar">
+  <a class="tb-name" href="#mapWrap">Do by-elections make Parliament listen?</a>
+  <span class="tb-k">Data study · 2026</span>
+  <nav class="tb-links"><a href="#essay">About</a><button class="theme" id="theme" aria-label="Toggle dark mode">◐</button><a href="https://doi.org/10.5281/zenodo.24094210">Paper</a><a class="x" href="{{REPO}}">Data and code</a></nav>
+</div>
+<div class="mapband">
+  <div class="pane" id="mapWrap" data-fullscreen-map role="application" aria-label="Map of UK by-election towns coloured by the change in Commons mentions after the by-election">
+    <div id="map"></div>
+    <div class="nojs" id="nojs">Loading the map. It needs JavaScript and WebGL.</div>
+    <div class="cartouche" id="cartouche">
+      <button class="ct-toggle" id="ctToggle" aria-expanded="true">Do by-elections make Parliament listen? ▾</button>
+      <button class="ct-fold" id="ctFold" title="Fold the title" aria-label="Fold the title">▴</button>
+      <div class="ct-body">
+        <div class="kicker"><b>Data study</b><span>2026</span></div>
+        <h1>Do by-elections make <span class="a">Parliament listen?</span></h1>
+        <p class="dek">Every UK by-election since 1909 whose seat is named after a town. For the {{sample.pairs|int}} towns in the analysis, colour shows how Commons mentions of "in" the town changed in the year after polling day, against similar towns with no by-election. Drag the timeline; tap a dot.</p>
+        <div class="byline">{{BYLINE}}</div>
+      </div>
+    </div>
+    <div class="ov-top">
+      <div class="srch"><input type="search" id="q" placeholder="Find a seat or town" aria-label="Find a seat or town" autocomplete="off"><ul class="sug" id="sug" role="listbox"></ul></div>
+      <div class="chips"><button class="chip" data-m="x" aria-pressed="true">Attention change</button><button class="chip" data-m="ch" aria-pressed="false">Changed hands</button><button class="chip" data-m="cg" aria-pressed="false">Cause</button><button class="chip lyr" id="lyrBtn" aria-expanded="false" aria-controls="lp">Layers</button></div>
+    </div>
+    <div class="lp" id="lp" role="dialog" aria-label="Map layers">
+      <h4>Layers</h4>
+      <label><input type="checkbox" id="lyP" checked> Towns in the analysis</label>
+      <label><input type="checkbox" id="lyX" checked> Other by-election towns (grey)</label>
+      <label><input type="checkbox" id="lyU" checked> Seats with no town in the name (rings)</label>
+      <label><input type="checkbox" id="lyL" checked> Town names (close in)</label>
+      <label><input type="checkbox" id="lyB" checked> Base map labels</label>
+    </div>
+    <div class="keys" id="keys"><b id="keyTitle">Mentions, year after vs reference year</b><div class="bar" id="keyBar"></div><div class="ends" id="keyEnds"><span>1/8</span><span>no change</span><span>8x</span></div>
+      <div class="row kx" id="keyX"><span class="dot"></span>other by-election towns (not in the analysis)</div><div class="row kx" style="color:#6E604E">Dot size: mentions in the year after</div><div class="row kx" style="color:#6E604E">UK by-elections 1909 to 2026 (all of Ireland until 1922); Hansard to 2026</div></div>
+    <div class="tl" id="tl"><button id="play" aria-label="Play the timeline">Play</button><label for="yr" class="sr" style="position:absolute;left:-9999px">Show by-elections up to year</label><input type="range" id="yr" min="1909" max="2026" value="2026" step="1"><b id="yrLab">1909 to 2026</b></div>
+  </div>
+</div>
+<div class="wrap" id="essay">
+<p style="margin-top:6px">A by-election is a small earthquake in one place. A member dies or resigns, the parties pour in, the national papers arrive, and for a few weeks a town most people never think about is on the news. But does Parliament itself pay more attention to the place afterwards? I took every UK by-election since 1909 from the Wikipedia lists ({{parse.n_since_1909|int}} of them), found the {{flow.byelections_linked|int}} whose seat is named after a town I can count in Hansard, and, for the {{sample.byelections|int}} that pass the checks below, followed how often MPs said "in" that town, month by month, for two years before and three years after polling day.</p>
+<div class="byline">{{BYLINE}} · Data: Hansard via the UK Parliament API (Open Parliament Licence v3.0), Wikipedia lists of UK by-elections (CC BY-SA 4.0), Wikidata (CC0) · Base map: OpenFreeMap Positron</div>
+<div class="stats">
+<div class="stat"><b>{{x.result|f1}}x</b><span>Commons mentions of the town in the polling month and the two after, against matched towns</span></div>
+<div class="stat"><b>{{x.year1|f1}}x</b><span>still, three to twelve months later</span></div>
+<div class="stat"><b>{{x.year2|f1}}x</b><span>in the second year after</span></div>
+<div class="stat"><b>{{x.changed_result|f1}}x</b><span>a bigger jump at the result when the seat changed hands</span></div>
+</div>
+
+<h2><span class="n">01 · The rise</span>The town gets its turn</h2>
+<p>Before a by-election, the {{sample.pairs|int}} towns in the analysis were mentioned "in" the Commons about {{abs.ref_month|f2}} times a month on average, roughly {{abs.ref_year|f1}} times a year. In the month of polling that jumps to {{abs.k0_month|f2}}. Compared with five similar towns each, chosen for a similar level of mentions beforehand and a similar population, with no by-election of their own, a by-election town was mentioned {{x.result|f1}} times as often in the polling month and the two after (95% interval {{M1.result.lo|f0}}% to {{M1.result.hi|f0}}% more). The rise starts in the three months before polling, when the seat is empty and the campaign is on ({{x.vacancy|f1}} times).</p>
+<div class="figure"><img src="img/event.jpg" alt="Two charts of Commons mentions of by-election towns, month by month from two years before to three years after polling day: a flat line until three months before, a spike of about {{abs.k0_x|f1}} times in the polling month, then a plateau about twice the level of matched towns for two years" loading="lazy"><p class="src">Top: average mentions, each against its own earlier level. Bottom: the monthly estimate against matched towns.</p></div>
+
+<h2><span class="n">02 · Does it last?</span>Two years, not three</h2>
+<p>The attention does outlast the campaign. Three to twelve months after polling, by-election towns were still mentioned {{x.year1|f1}} times as often as their matched towns (95% interval {{M1.year1.lo|f0}}% to {{M1.year1.hi|f0}}% more), and in the second year {{x.year2|f1}} times ({{M1.year2.lo|f0}}% to {{M1.year2.hi|f0}}%). By the third year the gap is {{x.year3|f1}} times, with an interval that includes no change, and it is significant in only {{robust_range.year3_n_sig|int}} of the {{robust_range.n_checks|int}} checks I ran. A new member who says the town's name in the chamber is a likely part of the story, but the data count speeches, not speakers, so I cannot tell how much.</p>
+<div class="figure"><img src="img/cases.jpg" alt="Six small bar charts of quarterly Commons mentions: Orpington 1962, Crewe and Nantwich 2008, Corby 2012, Eastleigh 2013, Newbury 1993 and Rotherham 1933, each with few mentions before and a tall bar at polling day" loading="lazy"><p class="src">Six by-elections, by quarter. <a data-go="Orpington|1962">Orpington</a> went from {{cases.Orpington 1962.ref12|int}} mentions in the reference year to {{cases.Orpington 1962.post12|int}} in the year after; <a data-go="Crewe and Nantwich|2008">Crewe</a> from {{cases.Crewe and Nantwich 2008.ref12|int}} to {{cases.Crewe and Nantwich 2008.post12|int}}.</p></div>
+
+<h2><span class="n">03 · Shocks</span>When the seat changes hands</h2>
+<p>A by-election that changes the seat's party is a bigger event, and the Commons notices: in the polling month and the two after, towns whose seat changed hands were mentioned {{x.changed_hands_result|f1}} times as often as their matched towns, against {{x.held_result|f1}} times where the seat was held, a difference of {{x.changed_result|f1}} times (95% interval {{contrast.changed_result.lo|f0}}% to {{contrast.changed_result.hi|f0}}% more). Where the government lost the seat the jump was {{x.govlost_result|f1}} times, against {{x.notlost_result|f1}} times for all other by-elections. But the difference does not last: three to twelve months on, towns whose seat changed hands were at {{x.changed_hands_year1|f1}} times and held seats at {{x.held_year1|f1}} times, a gap the data cannot tell apart from none. Whether the seat had been held by the government or the opposition made no clear difference.</p>
+<p>Deaths and resignations differ too. After a member's death, the town's extra attention was larger and lasted longer ({{x.death_year1|f2}} times in months 3 to 12) than after a resignation ({{x.resign_year1|f2}} times). Scandals are too few ({{sample.by_cause.scandal|int}} towns) to say much.</p>
+<div class="figure"><img src="img/het.jpg" alt="Dot and whisker chart of the attention change by kind of by-election: larger at the result where the seat changed hands or the government lost it, larger and longer after deaths, and close to no change for by-elections from 1911 to 1944" loading="lazy"><p class="src">Estimates with 95% intervals for three periods after polling day, by kind of by-election.</p></div>
+
+<h2><span class="n">04 · A modern habit</span>Before 1945, no clear rise</h2>
+<p>The clearest surprise is time. For the {{sample.by_era.1911 to 1944|int}} towns with by-elections from 1911 to 1944 there is no detectable rise ({{x.era1_result|f1}} times at the result, an interval that includes no change). From 1945 to 1979 the jump is {{x.era2_result|f1}} times, and from 1980 to 2023 it is {{x.era3_result|f1}} times. One reading is that MPs talk about their own patch far more than they used to, which is what studies of the constituency role of MPs describe. Another is that the way debates were recorded and indexed changed. This data cannot separate the two.</p>
+
+<h2><span class="n">05 · Checks</span>Where it should not appear, it does not</h2>
+<p>I moved every by-election two years earlier and ran the same analysis: nothing ({{x.P1_result|f2}} times at the false polling date). I took neighbouring towns three to 25 km away that were not in the seat's name: nothing either ({{x.P2_result|f2}} times). The seat's own name, which rises mechanically when a new member is introduced as "the hon. Member for ...", rose only {{x.S1_result|f2}} times and only around polling day, so the main result is not that formula. Across {{robust_range.n_checks|int}} other checks (other models, more controls, leaving out each era, nation or London, keeping by-elections near general elections) the first-year rise held every time but one, which left out England and kept only {{rb_noeng_rows|int}} rows.</p>
+<div class="figure"><img src="img/bins.jpg" alt="Dot and whisker chart comparing the main estimate with two placebos and the seat-name phrase: only the main estimate rises clearly above no change" loading="lazy"><p class="src">The main estimate against placebos and the seat's own name.</p></div>
+<div class="figure"><img src="img/robust.jpg" alt="Forest plot of every planned check: the polling-time and first-year rises stay above no change in nearly every row, the third-year rise often crosses it" loading="lazy"><p class="src">Every planned check.</p></div>
+
+<h2><span class="n">06 · How I did this</span>Lists, names and matched towns</h2>
+<p><b>By-elections.</b> I parsed the six Wikipedia lists of UK by-elections from 1900 to today: seat, date, the outgoing and incoming member and party, whether the seat changed hands, and the cause. {{parse.wiki_in_wd_pc|f1}}% of the by-elections since 1909 also have a Wikidata entry, with the same date in {{parse.wd_same_date_pc|f1}}% of those.</p>
+<p><b>Towns.</b> The Commons counts come from Hansard's search, month by month: contributions saying "in" plus the town's name, for {{flow.byelections_linked|int}} by-elections whose seat name contains one of 1,661 UK town names that I counted for an earlier study. Ambiguous names (Newport, Durham, Boston) are left out. I also left out by-elections within a year of a general election, towns with another by-election within the five-year window, towns split between three or more seats (Glasgow, Birmingham), and members re-elected after taking office, which leaves {{sample.pairs|int}} towns.</p>
+<p><b>The comparison.</b> Each town is compared with five others from the same nation, more than 25 km away, with no by-election of their own, and with similar mentions and population beforehand. I wrote the analysis plan down before running any model, and the main model is a Poisson regression with each town compared to its own matched towns month by month, uncertainty clustered by by-election.</p>
+<p><b>What this cannot say.</b> By-elections are not random: a death, a resignation or a scandal is itself news, so this measures the whole episode, from vacancy to new member, not the vote alone. "In" plus the name is a sample of mentions; county seats count only through the towns in their names; and I do not know who spoke. Each single by-election on the map is noisy, with few mentions either side.</p>
+<details><summary>Sources and licences</summary>
+<ul class="plain">
+<li>Hansard, House of Commons, monthly counts of spoken contributions from the UK Parliament Hansard API. Contains Parliamentary information licensed under the Open Parliament Licence v3.0.</li>
+<li>Wikipedia contributors, "List of United Kingdom by-elections" (1900 to 1918, 1918 to 1931, 1931 to 1950, 1950 to 1979, 1979 to 2010, 2010 to present), retrieved 2026, CC BY-SA 4.0.</li>
+<li>Wikidata by-election items (CC0), used to check the lists.</li>
+<li>Town names, points and ambiguity flags from <i>Mentioned in the House</i> (Hotham 2026, doi:10.5281/zenodo.23761431); seat points and general election dates from <i>Who Won Here?</i> (Hotham 2026, doi:10.5281/zenodo.23761425).</li>
+<li>Base map: OpenFreeMap Positron style (OpenStreetMap, ODbL). MapLibre GL JS 4.7.1 (BSD 3-Clause).</li>
+<li>Text and figures CC BY 4.0; code MIT; derived data CC BY-SA 4.0 where it includes Wikipedia list fields, otherwise CC BY 4.0.</li>
+</ul></details>
+<div class="cta"><a class="p" href="https://doi.org/10.5281/zenodo.24094210">Read the paper</a><a href="{{REPO}}">Data and code</a><a href="https://blog.tristanhotham.com/2026/10/31/byelection-attention/">Blog post</a></div>
+<footer>
+<p>Dr Tristan Hotham, Independent researcher. ORCID <a href="https://orcid.org/0000-0003-4931-9349">0000-0003-4931-9349</a>.</p>
+<p>Cite as: Hotham, T. (2026) Do by-elections make Parliament listen? Parliamentary attention to by-election constituencies in the House of Commons, 1911 to 2023. Zenodo. <a href="https://doi.org/10.5281/zenodo.24094210">10.5281/zenodo.24094210</a></p>
+<p>Code: <a href="{{REPO}}">github.com/Tristan-Hotham/byelection-attention</a> (MIT). Text, figures and data CC BY 4.0 (by-election list fields CC BY-SA 4.0).</p>
+<p>{{AI}}</p>
+</footer>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="js/page.js?v={{VERSION}}"></script>
+{{FULLSCREEN}}
+<script src="https://maps.tristanhotham.com/assets/site-nav.js" defer></script>
+</body>
+</html>
